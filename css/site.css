@@ -1,0 +1,199 @@
+/*tambahan header */
+.header {
+	height:100px;
+	text-align:right;
+    background-color: #EFFBFB;
+	margin-bottom:5px;
+}
+
+/* Sidebar */
+.sidebar {
+	background:#EFFBFB;
+	padding:10px;
+	box-shadow:4px 2px #ddd;
+	border-radius:10px;
+	 text-align:center;
+	 margin-bottom:10px;
+}
+.sidebar h2 {
+	 font-size:20px;
+	 text-align:center;
+}
+
+
+/*image effect*/
+
+.img{
+-webkit-transition: all 1s ease-in-out;
+-moz-transition: all 1s ease-in-out;
+-o-transition: all 1s ease-in-out;
+transition: all 1s ease-in-out;
+}
+
+.img:hover { 
+-webkit-transform:rotate(360deg); 
+-moz-transform:rotate(360deg);
+-o-transform:rotate(360deg);
+-ms-transform:rotate(360deg);
+transform:rotate(360deg);
+}
+
+/* Style the tab */
+div.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+    font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+
+h2 {
+	  text-shadow: 2px 2px #ccc;
+}
+
+.center {
+	text-align:center;
+	padding-bottom:10px;
+}
+.content {
+			margin-top: 10px;
+		}
+.form-group {
+ margin-bottom: 15px;
+}
+.form-group a{
+ font-weight:bold;
+ }
+.form-group a:hover{
+ text-transform:none;
+ text-decoration:none;
+ }
+.form-group .left {
+ float: left;
+}
+.form-group .right {
+ float: right;
+}
+#navbarright { text-align:right; margin-top:4px;}
+#navbar{ width:100%; background:none; color:#fff;  position:absolute; clear:both; top:4px;}
+.dropDownMenu,
+.dropDownMenu ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+.dropDownMenu li {
+	position: relative; 
+ 
+	 
+}
+.dropDownMenu a {
+	padding: 10px 20px;
+	display: block;
+	text-decoration: none;
+	color:#d6d6d6;
+}
+.dropDownMenu a:hover {
+	color:#fff;
+	text-decoration:none;
+}
+
+
+/* Level 1 Drop Down Menu */
+.dropDownMenu > li {
+	display: inline-block;
+	vertical-align: top;
+	margin-left: -4px; /* solve the 4 pixels spacing between list-items */
+}
+.dropDownMenu > li:first-child {
+	margin-left: 0;
+}
+.dropDownMenu > li > a {}
+.dropDownMenu > li > a:hover {  background-color:#35537F; }
+/* Level 2 */
+.dropDownMenu > li > ul {
+	text-align: left;
+	min-width:200px;
+	width: auto; /* change auto value with 200px if you want a bigger menu */
+	display: none;
+	background: #35537F;
+	position: absolute;
+	top: 100%;
+	left: 0;
+	 border-radius:3px;
+	z-index: 9999999; /* if you have YouTube iframes, is good to have a bigger z-index so the video can appear above the video */
+}
+.dropDownMenu > li:hover > ul {
+	display: block;
+}
+.dropDownMenu ul li a {}
+.dropDownMenu ul li a:hover {
+	background: #3553A1;	
+	border-bottom:1px dotted #6b6b6b;
+	}
+/* Level 3 */
+.dropDownMenu > li > ul > li > ul {
+	min-width: 200px; /* change auto value with 200px if you want a bigger menu */
+	text-align: left;
+	display: none;
+	background: #35537F;
+	position: absolute;
+	left: 100%;
+	top: 0;
+	 border-radius:3px; ;
+	z-index: 9999999;
+}
+.dropDownMenu > li > ul > li:hover > ul {
+	display: block;
+}
+.dropDownMenu ul ul li {}
+.dropDownMenu ul ul li a {}
+.dropDownMenu ul ul li a:hover {}
+ 
+ 
+ /* CSS UNTUK TABEL TABEL DI TUGASKAN */ 
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:10px;padding:5px 3px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal; line-height:14px;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-yw4l{vertical-align:top}
+
+.tk  {border-collapse:collapse;border-spacing:0;}
+.tk td{font-family:Arial, sans-serif;font-size:11px;padding:2px 3px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal; line-height:14px;}
+.kcl{font-size:9px;}
+.k8{font-size:8px;}
+.bold{font-weight:bold;}
+.tk th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tk .tk-baqh{text-align:center;vertical-align:top}
+.tk .tk-yw4l{vertical-align:top}
+
+/*END HANYAR */
+
