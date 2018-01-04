@@ -127,7 +127,7 @@
   </tr>
   <tr>
     <td class="tg-baqh">III</td>
-    <td class="tg-yw4l" colspan="5">DAPAT DIANGKAT DALAM JABATAN: </td>
+    <td class="tg-yw4l" colspan="5">DAPAT DIANGKAT DALAM JABAT/LEKTOR(200): </td>
     <td class="tg-yw4l" colspan="2">TMT.: 01 Mei 2016</td>
   </tr>
 </table>
