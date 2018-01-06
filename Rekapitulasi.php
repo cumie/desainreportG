@@ -4,6 +4,15 @@
 .tg-baqh {
 	text-align: center;
 }
+.tg-baqh {
+	text-align: center;
+}
+.tg-baqh p {
+	text-align: left;
+}
+.tg-baqh p {
+	text-align: center;
+}
 </style>
 
  
@@ -12,12 +21,12 @@
 
 <table class="tg"> 
   <tr>
-    <th width="10" class="tg-baqh" rowspan="14">I</th>
-    <th width="550" class="tg-baqh" colspan="7">KETERANGAN PERORANGAN</th>
+    <th width="15" class="tg-baqh" rowspan="14">I</th>
+    <th class="tg-baqh" colspan="7">KETERANGAN PERORANGAN</th>
   </tr>
   <tr>
-    <td class="tg-yw4l" width="5">1.</td>
-    <td class="tg-yw4l" width="160" colspan="2">Nama</td>
+    <td class="tg-yw4l" width="31">1.</td>
+    <td class="tg-yw4l" colspan="2">Nama</td>
     <td class="tg-yw4l" colspan="4"></td>
   </tr>
   <tr>
@@ -70,8 +79,8 @@
   </tr>
   <tr>
     <td class="tg-yw4l" rowspan="2">11.</td>
-    <td class="tg-yw4l" rowspan="2">Masa Kerja Golongan</td>
-    <td class="tg-yw4l">a.Lama</td>
+    <td width="254" rowspan="2" class="tg-yw4l">Masa Kerja Golongan</td>
+    <td width="166" class="tg-yw4l">a.Lama</td>
     <td class="tg-yw4l" colspan="4"></td>
   </tr>
   <tr>
@@ -86,10 +95,10 @@
   <tr>
     <td class="tg-baqh" rowspan="5">II</td>
     <td class="tg-baqh" colspan="3">PENETAPAN ANGKA KREDIT</td>
-    <td class="tg-baqh">LAMA</td>
-    <td class="tg-baqh">BARU</td>
-    <td class="tg-baqh">LEBIHAN</td>
-    <td class="tg-baqh">JUMLAH</td>
+    <td width="99" class="tg-baqh">LAMA</td>
+    <td width="91" class="tg-baqh">BARU</td>
+    <td width="99" class="tg-baqh">LEBIHAN</td>
+    <td width="116" class="tg-baqh">JUMLAH</td>
   </tr>
   <tr>
     <td class="tg-yw4l" rowspan="3">1.</td>
@@ -134,8 +143,7 @@
   </tr>
   <tr>
     <td class="tg-baqh">III</td>
-    <td class="tg-yw4l" colspan="5">DAPAT DIANGKAT DALAM JABAT/LEKTOR(200): </td>
-    <td class="tg-yw4l" colspan="2">TMT.: 01 Mei 2016</td>
+    <td class="tg-yw4l" colspan="7"><div align="right">DAPAT DIANGKAT DALAM JABATAN:   Lektor(200)     </div></td>
   </tr>
 </table>
 <?php include('foot.php');
