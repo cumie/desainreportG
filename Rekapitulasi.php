@@ -1,5 +1,8 @@
 <?php 
 ?>
+<link href="css/site.css" rel="stylesheet" type="text/css" /> 
+<body onload="window.print();">
+	
 <style type="text/css">
 .tg-baqh {
 	text-align: center;
