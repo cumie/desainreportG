@@ -18,8 +18,10 @@
 </style>
 
  
-<th width="550" class="tg-baqh" colspan="100"><p>PENETAPAN ANGKA KREDIT</p>
+<th width="550" class="tg-baqh" colspan="100">
+  <p>PENETAPAN ANGKA KREDIT</p>
 <p>TANGGAL PENILAIAN: TGL. 1 September 2007 S/D TGL. 30 April 2011</p></th>
+<p align="center">
 
 <table class="tg"> 
   <tr>
