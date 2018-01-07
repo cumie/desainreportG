@@ -1,7 +1,7 @@
 <?php 
 ?>
+<link href="css/site.css" rel="stylesheet" type="text/css" /> 
 
-	
 <style type="text/css">
 .tg-baqh {
 	text-align: center;
