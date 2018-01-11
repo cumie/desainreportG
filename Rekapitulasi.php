@@ -17,7 +17,7 @@
 }
 </style>
 
-<td class="tg-yw4l" colspan="100"><div align="center">PENETAPAN ANGKA KREDIT</div></td>
+<center>PENETAPAN</center>
 
 
 
