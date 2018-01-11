@@ -16,6 +16,12 @@
 	text-align: center;
 }
 </style>
+<style type="text/css">
+   .left    { text-align: left;}
+   .right   { text-align: right;}
+   .center  { text-align: center;}
+   .justify { text-align: justify;}
+</style>
 
 <center>PENETAPAN ANGKA KREDIT</center>
 <p style="font-size: large;">
@@ -147,13 +153,15 @@
   </tr>
   <tr>
     <td class="tg-baqh">III</td>
-     <td class="tg-yw4l" colspan="7">DAPAT DIANGKAT DALAM JABATAN
+     <td class="tg-yw4l" colspan="7">DAPAT DIANGKAT DALAM JABATAN: &nbsp&nbsp&nbsp&nbsp&nbsp Lektor(200)
+   
     <br/>Dalam Mata Kuliah : <ol>
-      <li>1.KUrsi</li>
-            <li>1.KUrsi</li>
+ <li>Riset Operasional</li>
+            <li>Manajemen Strategi</li>
+            <li>Manajemen Operasional</li>
+          </ol>
+         
 
-    </ol>
-       
 </table>
 <?php include('foot.php');
 ?>
