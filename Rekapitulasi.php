@@ -158,14 +158,12 @@
   </tr>
   <tr>
     <td class="tg-baqh">III</td>
-     <td class="tg-yw4l" colspan="5">DAPAT DIANGKAT DALAM JABATAN: &nbsp&nbsp&nbsp&nbsp&nbsp Lektor(200)   
-      <br/>Dalam Mata Kuliah : <ol>
+     <td class="tg-yw4l" colspan="7">DAPAT DIANGKAT DALAM JABATAN: &nbsp&nbsp&nbsp&nbsp&nbsp Lektor(200)   <p style="text-align: right;">TMT.: 01 MEI 2011</p>
+      <ol>Dalam Mata Kuliah : <ol>
         <li>Riset Operasional</li>
             <li>Manajemen Strategi</li>
             <li>Manajemen Operasional</li>
           </ol>
-       <td class="tg-yw4l" colspan="2"TMT.: 01 MEI 2011 
-         </td>
 </table>
 
      <p style="text-align: left">*) Coret yang tidak perlu
