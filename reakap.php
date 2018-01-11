@@ -1,44 +1,52 @@
-<?php  include('head.php');
+Skip to content
+This repository
+Search
+Pull requests
+Issues
+Marketplace
+Explore
+ @W17aya
+ Sign out
+ Watch 3
+  Star 0  Fork 0 cumie/pdfjunk
+ Code  Issues 0  Pull requests 1  Projects 0  Wiki  Insights
+Branch: master Find file Copy pathpdfjunk/pages/laporan/rekapitulasi.php
+98c9b6d  21 days ago
+@cumie cumie head2 footer2 for lampiran 2
+1 contributor
+RawBlameHistory     
+152 lines (146 sloc)  4.52 KB
+<?php 
+session_start(); 
+// include "../../lib/connection.php";
+// include "../../lib/library.php";
+//include_once "../masters/dosen_config.php";
+// include_once "lib/seslogin.php"; 
+// include_once "pages/masters/dosen_config.php"; 
+// if($_GET) { 
+	  
+// $Kode	 = $_SESSION['ID_CRAB'];
+// $sqlShow = "SELECT * FROM ".$tableName." WHERE ".$field[4]."='$Kode'";
+// $qryShow = mysqli_query($koneksidb, $sqlShow)  or die ("Query ambil data salah : ".mysqli_error($koneksidb));
+// $dataShow = mysqli_fetch_array($qryShow);
+// for($i=0;$i<=$jmlField;$i++){
+	// $data[$i] = $dataShow[$field[$i]];
+// }
+// } // Penutup GET
+?>   
+
+<?php include('head.php');
 ?>
-
-<link href="css/site.css" rel="stylesheet" type="text/css" /> 
-
-<style type="text/css">
-.tg-baqh {
-	text-align: center;
-}
-.tg-baqh {
-	text-align: center;
-}
-.tg-baqh p {
-	text-align: left;
-}
-.tg-baqh p {
-	text-align: center;
-}
-</style>
-<style type="text/css">
-   .left    { text-align: left;}
-   .right   { text-align: right;}
-   .center  { text-align: center;}
-   .justify { text-align: justify;}
-</style>
-
-<center>PENETAPAN ANGKA KREDIT</center>
-<p style="font-size: large;">
-  <center>TANGGAL PENILAIAN: TGL. 1 SEPTEMBER 2007 S/D TGL.30 APRIL 2011</center>
-<br/>
-<p align="center">
-<table width=100%>
+ 
 <table class="tg"> 
   <tr>
-    <th width="15" class="tg-baqh" rowspan="14">I</th>
-    <th class="tg-baqh" colspan="7">KETERANGAN PERORANGAN</th>
+    <th width="10" class="tg-baqh" rowspan="14">I</th>
+    <th width="550" class="tg-baqh" colspan="7">KETERANGAN PERORANGAN</th>
   </tr>
   <tr>
-    <td class="tg-yw4l" width="31">1.</td>
-    <td class="tg-yw4l" colspan="2">Nama</td>
-    <td class="tg-yw4l" colspan="4"></td>
+    <td class="tg-yw4l" width="5">1.</td>
+    <td class="tg-yw4l" width="160"	colspan="2">Nama</td>
+    <td class="tg-yw4l" colspan="4">FATHUL HAFIDH, S.Kom., M.Kom</td>
   </tr>
   <tr>
     <td class="tg-yw4l">2.</td>
@@ -65,13 +73,10 @@
     <td class="tg-yw4l" colspan="2">Jenis Kelamin</td>
     <td class="tg-yw4l" colspan="4"></td>
   </tr>
-  <style type="text/css">
-   .center  { text-align: center;}
-</style>
   <tr>
     <td class="tg-yw4l">7.</td>
     <td class="tg-yw4l" colspan="2">Pendidikan Tertinggi</td>
-    <td class="tg-yw4l" colspan="4"></td>
+    <td class="tg-yw4l" colspan="4">S2, Universitas Islam Kalimantan Muhammad Arsyad Al Banjari </td>
   </tr>
   <tr>
     <td class="tg-yw4l">8.</td>
@@ -90,8 +95,8 @@
   </tr>
   <tr>
     <td class="tg-yw4l" rowspan="2">11.</td>
-    <td width="254" rowspan="2" class="tg-yw4l">Masa Kerja Golongan</td>
-    <td width="166" class="tg-yw4l">a.Lama</td>
+    <td class="tg-yw4l" rowspan="2">Masa Kerja Golongan</td>
+    <td class="tg-yw4l">a.Lama</td>
     <td class="tg-yw4l" colspan="4"></td>
   </tr>
   <tr>
@@ -106,10 +111,10 @@
   <tr>
     <td class="tg-baqh" rowspan="5">II</td>
     <td class="tg-baqh" colspan="3">PENETAPAN ANGKA KREDIT</td>
-    <td width="99" class="tg-baqh">LAMA</td>
-    <td width="91" class="tg-baqh">BARU</td>
-    <td width="99" class="tg-baqh">LEBIHAN</td>
-    <td width="116" class="tg-baqh">JUMLAH</td>
+    <td class="tg-baqh">LAMA</td>
+    <td class="tg-baqh">BARU</td>
+    <td class="tg-baqh">LEBIHAN</td>
+    <td class="tg-baqh">JUMLAH</td>
   </tr>
   <tr>
     <td class="tg-yw4l" rowspan="3">1.</td>
@@ -121,10 +126,10 @@
   </tr>
   <tr>
     <td class="tg-yw4l" colspan="2">B. TRIDHARMA PERGURUAN TINGGI 
-    <br/> a. Melaksanakan Pendidikan dan Pengajaran
-    <br/> b. Melaksanakan Penelitian
-    <br/> c. Melaksanakan Pengabdian Kepada Masyarakat
-    </td>
+	<br/> a. Melaksanakan Pendidikan dan Pengajaran
+	<br/> b. Melaksanakan Penelitian
+	<br/> c. Melaksanakan Pengabdian Kepada Masyarakat
+	</td>
     <td class="tg-baqh"></td>
     <td class="tg-baqh"></td>
     <td class="tg-baqh"></td>
@@ -154,34 +159,21 @@
   </tr>
   <tr>
     <td class="tg-baqh">III</td>
-     <td class="tg-yw4l" colspan="5">DAPAT DIANGKAT DALAM JABATAN: &nbsp&nbsp&nbsp&nbsp&nbsp Lektor(200)   
-      <br/>Dalam Mata Kuliah : <ol>
- <li>Riset Operasional</li>
-            <li>Manajemen Strategi</li>
-            <li>Manajemen Operasional</li>
-          </ol>
-       <td class="tg-yw4l" colspan="2">TMT.: 01 MEI 2016 
-         </td>
+    <td class="tg-yw4l" colspan="5">DAPAT DIANGKAT DALAM JABATAN: </td>
+    <td class="tg-yw4l" colspan="2">TMT.: 01 Mei 2016</td>
+  </tr>
 </table>
-
-     <p style="text-align: left">*) Coret yang tidak perlu
-
-<p style="text-align: right"> Puket I STIE Panca Setia Banjarmasin
-  <br>
-  <br>
-  <p style="text-align: right">Sutrisno, SE, MM
-    <br>
-      <th class="">NIP.19670512 200501 1 001</th>
-    </br>
-    <p style="text-align: left">Catatan:
-          <p style="text-align: left">PNS Dpk.&nbsp&nbsp&nbsp&nbsp = &nbsp Dosen Pegawai Negeri Sipil Dipekerjakan
-            <br>
-                    <th class="">TTP Yys.&nbsp&nbsp&nbsp&nbsp&nbsp = &nbsp Dosen Tetap Yayasan</th>
-                    <br>
-               <th class="">LBS      &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp = &nbsp Dosen Luar Biasa</th>
-
-
-
-
-<?php include('foot.php');
+<?php include('footer.php');
 ?>
+© 2018 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+API
+Training
+Shop
+Blog
+About
