@@ -17,11 +17,9 @@
 }
 </style>
 
- 
-<th width="550" class="tg-baqh" colspan="100">
-  <p>PENETAPAN ANGKA KREDIT</p>
-<p>TANGGAL PENILAIAN: TGL. 1 September 2007 S/D TGL. 30 April 2011</p></th>
-<p align="center">
+<td class="tg-yw4l" colspan="100"><div align="center">PENETAPAN ANGKA KREDIT</div></td>
+
+
 
 <table class="tg"> 
   <tr>
@@ -147,7 +145,7 @@
   </tr>
   <tr>
     <td class="tg-baqh">III</td>
-    <td class="tg-yw4l" colspan="7"><div align="right">DAPAT DIANGKAT DALAM JABATAN:   Lektor(200)     </div></td>
+    <td class="tg-yw4l" colspan="7"><div align="center">DAPAT DIANGKAT DALAM JABATAN:   Lektor(200)     </div></td>
   </tr>
 </table>
 <?php include('foot.php');
