@@ -94,11 +94,11 @@
     <td class="tg-yw4l" rowspan="2">11.</td>
     <td width="254" rowspan="2" class="tg-yw4l">Masa Kerja Golongan</td>
     <td width="166" class="tg-yw4l">a.Lama</td>
-    <td class="tg-yw4l" colspan="4">&nbsp&nbsp&nbsp&nbsp 2 &nbsp&nbsp Tahun &nbsp&nbsp2&nbsp&nbspBulan</td>
+    <td class="tg-yw4l" colspan="4">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 2 &nbsp&nbsp Tahun &nbsp&nbsp2&nbsp&nbspBulan</td>
   </tr>
   <tr>
     <td class="tg-yw4l">a.Baru</td>
-    <td class="tg-yw4l" colspan="4">&nbsp&nbsp&nbsp&nbsp 5 &nbsp&nbsp Tahun &nbsp&nbsp10&nbsp&nbspBulan</td>
+    <td class="tg-yw4l" colspan="4">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 5 &nbsp&nbsp Tahun &nbsp&nbsp10&nbsp&nbspBulan</td>
   </tr>
   <tr>
     <td class="tg-yw4l">12.</td>
