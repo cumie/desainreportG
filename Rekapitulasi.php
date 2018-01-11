@@ -147,8 +147,13 @@
   </tr>
   <tr>
     <td class="tg-baqh">III</td>
-    <td class="tg-yw4l" colspan="7"><div align="left">DAPAT DIANGKAT DALAM JABATAN: &nbsp;Lektor(200)     </div></td>
-  </tr>
+     <td class="tg-yw4l" colspan="7">DAPAT DIANGKAT DALAM JABATAN
+    <br/>Dalam Mata Kuliah : <ol>
+      <li>1.KUrsi</li>
+            <li>1.KUrsi</li>
+
+    </ol>
+       
 </table>
 <?php include('foot.php');
 ?>
