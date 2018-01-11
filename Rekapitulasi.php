@@ -27,8 +27,7 @@
 <p style="font-size: large;">
   <center>TANGGAL PENILAIAN: TGL. 1 SEPTEMBER 2007 S/D TGL.30 APRIL 2011</center>
 <br/>
-
-
+<table width=100%>
 <table class="tg"> 
   <tr>
     <th width="15" class="tg-baqh" rowspan="14">I</th>
@@ -153,15 +152,33 @@
   </tr>
   <tr>
     <td class="tg-baqh">III</td>
-     <td class="tg-yw4l" colspan="7">DAPAT DIANGKAT DALAM JABATAN: &nbsp&nbsp&nbsp&nbsp&nbsp Lektor(200)
-   
-    <br/>Dalam Mata Kuliah : <ol>
+     <td class="tg-yw4l" colspan="5">DAPAT DIANGKAT DALAM JABATAN: &nbsp&nbsp&nbsp&nbsp&nbsp Lektor(200)   
+      <br/>Dalam Mata Kuliah : <ol>
  <li>Riset Operasional</li>
             <li>Manajemen Strategi</li>
             <li>Manajemen Operasional</li>
           </ol>
-         
-
+       <td class="tg-yw4l" colspan="2">TMT.: 01 MEI 2016 
+         </td>
 </table>
+  <th class="">*) Coret yang tidak perlu</th>
+
+<p style="text-align: right"> Puket I STIE Panca Setia Banjarmasin
+  <br>
+  <br>
+  <p style="text-align: right">Sutrisno, SE, MM
+    <br>
+      <th class="">NIP.19670512 200501 1 001</th>
+    </br>
+    <p style="text-align: left">Catatan:
+          <p style="text-align: left">PNS Dpk.&nbsp&nbsp&nbsp&nbsp = &nbsp Dosen Pegawai Negeri Sipil Dipekerjakan
+            <br>
+                    <th class="">TTP Yys.&nbsp&nbsp&nbsp&nbsp&nbsp = &nbsp Dosen Tetap Yayasan</th>
+                    <br>
+               <th class="">LBS      &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp = &nbsp Dosen Luar Biasa</th>
+
+
+
+
 <?php include('foot.php');
 ?>
