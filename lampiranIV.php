@@ -30,7 +30,7 @@
   <tr class="tg">
 		<td class="tg-baqh"></td>
 		<td class="tg-baqh" width="250" >
-			<p style="font-size: 16"><b><u>Memberi Penyuluhan Kepada<br/> Masyarakat</u></b></p>
+			<p style="font-size: 16" align="left"><b><u>Memberi Penyuluhan Kepada<br/> Masyarakat</u></b></p>
 		</td>
 		<td> </td>
 		<td> </td>
@@ -41,52 +41,53 @@
 	
 	
 	<tr class="tg" >
-		<td class="tg-baqh"><p style="font-size: 16">1.</td></p>
+		<td class="tg-baqh"><p style="font-size: 16" align="center">1.</td></p>
 		<td class="tg-baqh">
-			<p style="font-size: 16"> Memberi Penyuluhan<br/> Mengenai Manajemen<br/>
-			Pemasaran Pada program<br/> Pelatihan Kerja<br/>
-			Berbasis Masyarakat<br/> Melalui Terapan<br/>
-			Teknologi Tepat Guna<br/>
+			<p style="font-size: 16" align="left"> Memberi Penyuluhan Mengenai Manaje-<br/> men	
+			Pemasaran Pada program Pelati- <br/>
+			han Kerja Berbasis Masyarakat Melalui <br/> 
+			Terapan Teknologi Tepat Guna
 			</p>
 		</td>
-		<td class="tg-baqh" align="center"><p style="font-size: 16">Penyuluhan</td> </p>
-		<td class="tg-yw4l"><p style="font-size: 16">Desa Tambak Danau<br/> Kec. Astambul<br/> Kab. Banjar Kalsel</td></p>
-		<td class="tg-yw4l"><p style="font-size: 16">28 Oktober 2010</td></p>
-  	<td class="tg-baqh"><p style="font-size: 16">1</td></p>
-    <td class="tg-yw4l"><p style="font-size: 16">Laporan Terlampir</td></p>
+		<td class="tg-baqh" align="left"><p style="font-size: 16">Penyuluhan</td> </p>
+		<td class="tg-yw4l"><p style="font-size: 16" align="left">Desa Tambak Danau<br/> Kec. Astambul<br/> Kabubaten Banjar <br/>Kal-sel</td></p>
+		<td class="tg-yw4l"><p style="font-size: 16" align="center">28 Okt <br />2010</td></p>
+  	<td class="tg-baqh"><p style="font-size: 16" align="center">1</td></p>
+    <td class="tg-yw4l"><p style="font-size: 16" align="left">Laporan Terlampir</td></p>
 	</tr>
 	
 	
 	<tr class="tg" >
-		<td class="tg-baqh"><p style="font-size: 16">2.</td></p>
+		<td class="tg-baqh"><p style="font-size: 16" align="center">2.</td></p>
 		<td class="tg-baqh">
-			<p style="font-size: 16"> Memberi Penyuluhan<br/> Mengenai Manajemen<br/>
-			Pemasaran Pada program<br/> Pelatihan Kerja<br/>
-			Berbasis Masyarakat<br/> Melalui Terapan<br/>
-			Teknologi Tepat Guna<br/>
+			<p style="font-size: 16" align="left"> Memberi Penyuluhan Mengenai Manaje-<br/> men	
+			Pemasaran Pada program Pelati- <br/>
+			han Kerja Berbasis Masyarakat Melalui <br/> 
+			Terapan Teknologi Tepat Guna
 			</p>
 		</td>
-		<td class="tg-baqh" align="center"><p style="font-size: 16">Penyuluhan</td> </p>
-		<td class="tg-yw4l"><p style="font-size: 16">Desa Tambak Danau<br/> Kec. Astambul<br/> Kab. Banjar Kalsel</td></p>
-		<td class="tg-yw4l"><p style="font-size: 16">28 Oktober 2010</td></p>
-  	<td class="tg-baqh"><p style="font-size: 16">1</td></p>
-    <td class="tg-yw4l"><p style="font-size: 16">Laporan Terlampir</td></p>
+		<td class="tg-baqh" align="left"><p style="font-size: 16" >Penyuluhan</td> </p>
+		<td class="tg-yw4l"><p style="font-size: 16" align="left">Desa Tambak Danau<br/> Kec. Astambul<br/> Kabupaten Banjar <br/> Kal-sel</td></p>
+		<td class="tg-yw4l"><p style="font-size: 16" align="center">28 Okt <br />2010</td></p>
+  	<td class="tg-baqh"><p style="font-size: 16" align="center">1</td></p>
+    <td class="tg-yw4l"><p style="font-size: 16" align="left">Laporan Terlampir</td></p>
 	</tr>
 	
 	<tr class="tg" >
 		<td class="tg-baqh"><p style="font-size: 16">3.</td></p>
 		<td class="tg-baqh">
-			<p style="font-size: 16"> Memberi Penyuluhan<br/> Mengenai Manajemen<br/>
-			Pemasaran Pada program<br/> Pelatihan Kerja<br/>
-			Berbasis Masyarakat<br/> Melalui Terapan<br/>
-			Teknologi Tepat Guna<br/>
+			<p style="font-size: 16" align="left"> Memberi Penyuluhan Mengenai Manaje-<br/> men	
+			Pemasaran Pada program Pelati- <br/>
+			han Kerja Berbasis Masyarakat Melalui <br/> 
+			Terapan Teknologi Tepat Guna
 			</p>
 		</td>
-		<td class="tg-baqh" align="center"><p style="font-size: 16">Penyuluhan</td> </p>
-		<td class="tg-yw4l"><p style="font-size: 16">Desa Tambak Danau<br/> Kec. Astambul<br/> Kab. Banjar Kalsel</td></p>
-		<td class="tg-yw4l"><p style="font-size: 16">28 Oktober 2010</td></p>
-  	<td class="tg-baqh"><p style="font-size: 16">1</td></p>
-    <td class="tg-yw4l"><p style="font-size: 16">Laporan Terlampir</td></p>
+		
+		<td class="tg-baqh" align="left"><p style="font-size: 16">Penyuluhan</td> </p>
+		<td class="tg-yw4l"><p style="font-size: 16"  align="left">Desa Tambak Danau<br/> Kec. Astambul<br/> Kabupaten Banjar <br/>Kal-sel</td></p>
+		<td class="tg-yw4l"><p style="font-size: 16" align="center">28 Okt <br />2010</td></p>
+  	<td class="tg-baqh"><p style="font-size: 16" align="center">1</td></p>
+    <td class="tg-yw4l"><p style="font-size: 16" align="left">Laporan Terlampir</td></p>
 	</tr>
 	
 	
