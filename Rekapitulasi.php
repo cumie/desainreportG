@@ -127,7 +127,11 @@
     <br/> b. Melaksanakan Penelitian
     <br/> c. Melaksanakan Pengabdian Kepada Masyarakat
     </td>
+<<<<<<< HEAD
     <td class="tg-baqh"><br>83.02 <br/>11<br> 11  </td>
+=======
+    <td class="tg-baqh"><br>83.02 <br/>11<br> 11	</td>
+>>>>>>> origin/master
     <td class="tg-baqh">101.50</td>
     <td class="tg-baqh">-</td>
     <td class="tg-baqh">184.52</td>
