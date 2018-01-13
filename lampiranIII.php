@@ -1,7 +1,6 @@
-//<<<<<<< HEAD
+
 <link rel="stylesheet" type="text/css" href="css/site.css">
 <table class="goku">
-=======
 <?php include('head.php');
 ?>
 
@@ -26,6 +25,28 @@
    .center  { text-align: center;}
    .justify { text-align: justify;}
 </style>
+<table class="goku">
+	<tr>
+		<th colspan="1">Lampiran III</th>
+		<th>KEPUTUSAN BERSAMA MENTERI</th>
+	</tr>
+	<tr>
+		<th></th>
+		<th>PENDIDIKAN DAN KEBUDAYAAN DAN</th>
+	</tr>
+	<tr>
+		<th></th>
+		<th>NOMOR :	61409/MPK/KP/99</th>
+	</tr>
+	<tr>
+		<th></th>
+		<th>NOMOR : 181 TAHUN 1999</th>
+	</tr>
+	<tr>
+		<th></th>
+		<th>TANGGAL : 13 OCTOBER 1999</th>
+	</tr>
+</table>
 <h2 class="kendil">DAFTAR KEGIATAN PENELITIAN</h2>
 
 <table class="goku2">
@@ -56,6 +77,7 @@
 		<th>STEI Panca Setia Banjarmasin</th>
 	</tr>
 </table>
+</br>
 <p align="center">
 <table width=100%>
 <table class="tg"> 
@@ -66,7 +88,6 @@
 		<th colspan="2" width="200">ANGKA KREDIT MENURUT</th>
 		<th rowspan="2" width="100">KET/BUKTI FISIK</th>
   </tr>
->>>>>>> ea1f5334a0873cff1671ee7c24a7954a10e5b622
 	<tr>
 		<th width="60">NILAI ANGKA KREDIT</th>
 		<th width="100">
@@ -191,9 +212,17 @@
 		<td> </td>
 	</tr>
 </table>
-<<<<<<< HEAD
+<div class="goku3">
+	<p>Banjarmasin, 30 April 2011</p>
+	</br>
+	<p>Yang Membuat Penyataan</p>
+	<p>PUKET I STIE  Panca Setia B.Masin</p>
+	</br>
+	</br>
+	</br>
+	<p>Sutrisno, SE, MM</p>
+	<p>NIP. 19670512 200501 1 001</p>
+</div>
 
-=======
 <?php include('foot.php');
 ?>
->>>>>>> ea1f5334a0873cff1671ee7c24a7954a10e5b622
