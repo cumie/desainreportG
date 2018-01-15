@@ -145,10 +145,10 @@
     <td class="tg-yw4l">2.</td>
     <td class="tg-yw4l" colspan="2">UNSUR PENUNJANG 
       <br/> Melaksanakan Penunjang Tugas Pokok Dosen
-    <td class="tg-baqh">1.51</td>
-    <td class="tg-baqh">11</td>
-    <td class="tg-baqh">-</td>
-    <td class="tg-baqh">12.51</td>
+    <td class="tg-baqh"><br/>1.51</td>
+    <td class="tg-baqh"><br/>11</td>
+    <td class="tg-baqh"><br/>-</td>
+    <td class="tg-baqh"><br/>12.51</td>
 
   </tr>
   <tr>
