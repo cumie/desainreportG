@@ -57,6 +57,10 @@
 	</tr>
 	</br>
 	<tr>
+		<th><br></th>
+		<th></th>
+	</tr>
+	<tr>
 		<th width="300">1. Nama</th>
 		<th>:</th>
 		<th>ARIEF NOVIARAKHMAN ZAGLADI, SE, MM</th>
