@@ -14,3 +14,21 @@
   </tr>
   tes
   tes lagi
+  <tr>
+  	<th>1</th>
+		<th>2</th>
+		<th>3</th>
+		<th>4</th>
+		<th>5</th>
+		<th>6</th>
+  </tr>
+	<tr class="g5">
+    <td class="tisi-baqh bold">A.</td>
+    <td>
+			 <u>Kegiatan Pendidikan</u>
+		</td>
+		<td> </td>
+		<td> </td>
+		<td> </td>
+		<td> </td>
+</tr>
