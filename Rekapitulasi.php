@@ -116,10 +116,10 @@
   <tr>
     <td class="tg-yw4l" rowspan="3">1.</td>
     <td class="tg-yw4l" colspan="2"> UNSUR UTAMA <br/> A. PENDIDIKAN</td>
-    <td class="tg-baqh">-</td>
-    <td class="tg-baqh">50</td>
-    <td class="tg-baqh">-</td>
-    <td class="tg-baqh">50</td>
+    <td class="tg-baqh"><br/>-</td>
+    <td class="tg-baqh"><br/>50</td>
+    <td class="tg-baqh"><br/>-</td>
+    <td class="tg-baqh"><br/>50</td>
   </tr>
   <tr>
     <td class="tg-yw4l" colspan="2">B. TRIDHARMA PERGURUAN TINGGI 
@@ -129,26 +129,26 @@
     </td>
 
 
-    <td class="tg-baqh"><br>83.02 <br/>11<br> 11	</td>
-    <td class="tg-baqh">101.50</td>
-    <td class="tg-baqh">-</td>
-    <td class="tg-baqh">184.52</td>
+    <td class="tg-baqh"><br>83.02 <br/>14.34<br> 1.13	</td>
+    <td class="tg-baqh"><br/>101.50</td>
+    <td class="tg-baqh"><br/>-</td>
+    <td class="tg-baqh"><br/>184.52<br/>64.34<br/>4.13</td>
   </tr>
   <tr>
     <td class="tg-baqh" colspan="2">JUMLAH</td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh">98.49</td>
+    <td class="tg-baqh">204.50</td>
+    <td class="tg-baqh">-</td>
+    <td class="tg-baqh">315.50</td>
   </tr>
   <tr>
     <td class="tg-yw4l">2.</td>
     <td class="tg-yw4l" colspan="2">UNSUR PENUNJANG 
       <br/> Melaksanakan Penunjang Tugas Pokok Dosen
-    <td class="tg-baqh">1.51</td>
-    <td class="tg-baqh">11</td>
-    <td class="tg-baqh">-</td>
-    <td class="tg-baqh">12.51</td>
+    <td class="tg-baqh"><br/>1.51</td>
+    <td class="tg-baqh"><br/>11</td>
+    <td class="tg-baqh"><br/>-</td>
+    <td class="tg-baqh"><br/>12.51</td>
 
   </tr>
   <tr>
