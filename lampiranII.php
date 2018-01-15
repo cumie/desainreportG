@@ -1,4 +1,4 @@
--<?php include('head2.php');
+-<?php include('head.php');
 ?>
 
 <table class="tisi">
