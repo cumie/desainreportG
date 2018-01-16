@@ -24,13 +24,14 @@
    .justify { text-align: justify;}
 </style>
 
-<center>PENETAPAN ANGKA KREDIT</center>
+<center><b>PENETAPAN ANGKA KREDIT<b/></center>
 <p style="font-size: large;">
   <center>TANGGAL PENILAIAN: TGL. 1 SEPTEMBER 2007 S/D TGL.30 APRIL 2011</center>
 <br/>
 <p align="center">
 <table width=100%>
 <table class="tg"> 
+
   <tr>
     <th width="15" class="tg-baqh" rowspan="14">I</th>
     <th class="tg-baqh" colspan="7">KETERANGAN PERORANGAN</th>
