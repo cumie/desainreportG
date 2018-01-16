@@ -172,13 +172,19 @@
           <tr/>
           <td class="tg-baqh">III</td>
      <td class="tg-yw4l" colspan="7">*) Coret yang tidak perlu
-     <p style="text-align: right;"> Puket I STIE Panca Setia Banjarmasin</p>
       <ol>
+        <br>
+        <br>
     <p style="text-align: left">Catatan:
           <p style="text-align: left">PNS Dpk.&nbsp&nbsp&nbsp&nbsp = &nbsp Dosen Pegawai Negeri Sipil Dipekerjakan
                       <p style="text-align: left">TTP Yys.&nbsp&nbsp&nbsp&nbsp = &nbsp Dosen Tetap Yayasan
                           <p style="text-align: left">LBS &nbsp&nbsp&nbsp&nbsp  = &nbsp Dosen Luar Biasa
   <br/>
+
+       <p style="text-align: right;"> Puket I STIE Panca Setia Banjarmasin</p>
+<br/>
+<br/>
+<br/>
   <p style="text-align: right">Sutrisno, SE, MM
   <p style="text-align: right">NIP.19670512 200501 1 001
      
