@@ -52,3 +52,13 @@
 		<td> </td>
 		<td> </td>
 	</tr>
+ <tr class="g5">
+    <td class="tisi-baqh bold">-</td>
+    <td>
+      Memperoleh Ijazah S2
+    </td>
+    <td>UNIBRAW Malang</td>
+    <td align="center">18 Juni 2008</td>
+    <td align="center">50</td>
+    <td>Fotocoy Ijazah Terlampir</td>
+  </tr>
