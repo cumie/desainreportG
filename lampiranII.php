@@ -72,3 +72,27 @@
     <td> </td>
     <td> </td>
   </tr>
+ <tr class="g5">
+    <td class="tisi-baqh bold">1.</td>
+    <td>Memberi Kuliah :</td>
+    <td></td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+
+  <tr class="g5">
+    <td> </td>
+    <td>
+      <ul>
+        <li>Riset Operasional (3 sks)</li>
+        <li>Studi Kelayakan Bisnis (3 sks)</li>
+        <li>Manajemen Strategi (3 sks)</li>
+        <li>Manajemen Operasional (3 sks)</li>
+      </ul>
+    </td>
+    <td>STIE Panca Setia Banjarmasin</td>
+    <td align="center">(Smt.Ganjil) 2009/2010</td>
+    <td align="center">5.5.</td>
+    <td>SK.Nomor : 007/PTS 240.XI.01/KEP/Q 2009 Tgl. 14 Oktober 2009</td>
+</tr>
