@@ -12,8 +12,7 @@
 		<th width="150">JUMLAH ANGKA KREDIT</th>
     <th width="150">KETERANGAN / BUKTI FISIK</th>
   </tr>
-  tes
-  tes lagi
+  
   <tr>
   	<th>1</th>
 		<th>2</th>
@@ -31,4 +30,45 @@
 		<td> </td>
 		<td> </td>
 		<td> </td>
-</tr>
+  </tr>
+
+ <tr class="g5">
+    <td class="tisi-baqh bold">-</td>
+    <td>
+      Memperoleh Ijazah S2
+    </td>
+    <td>UNIBRAW Malang</td>
+    <td align="center">18 Juni 2008</td>
+    <td align="center">50</td>
+    <td>Fotocoy Ijazah Terlampir</td>
+  </tr>
+   
+   <tr class="g5">
+    <td></td>
+    <td>
+      <b>Sub Jumlah Kegiatan Pendidikan</b>
+    </td>
+    <td> </td>
+    <td> </td>
+    <td align="center">50</td>
+    <td> </td>
+  </tr>
+
+  <tr class="g5">
+    <td class="tisi-baqh bold">B.</td>
+    <td> <u>Kegiatan Pengajaran</u> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+
+  <tr class="g5">
+    <td class="tisi-baqh bold"> </td>
+    <td> <u>Melaksanakan Perkuliahan</u>
+    </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
