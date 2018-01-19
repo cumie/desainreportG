@@ -121,3 +121,130 @@
     <td align="center">5.5.</td>
     <td>SK.Nomor : 004/PTS 240.XI.01/KEP/Q 2010 Tgl. 8 Maret 2010</td>
   </tr>
+
+   <tr class="g5">
+    <td class="tisi-baqh bold">3.</td>
+    <td>Memberi Kuliah :</td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+
+  <tr class="g5">
+    <td> </td>
+    <td>
+      <ul>
+        <li>Matematika Ekonomi & Bisnis (3 sks)</li>
+        <li>Manajemen Strategi (3 sks)</li>
+        <li>Riset Operasional (3 sks)</li>
+        <li>Metode Penelitian (3 sks)</li>
+      </ul>
+    </td>
+    <td>STIE Panca Setia Banjarmasin</td>
+    <td align="center">(Smt.Ganjil) 2010/2011</td>
+    <td align="center">5.5.</td>
+    <td>SK.Nomor : 014/PTS 240.XI.01/KEP/Q 2010 Tgl. 18 Oktober 2010</td>
+  </tr>
+
+  <tr class="g5">
+    <td class="tisi-baqh bold">4.</td>
+    <td>Memberi Kuliah :</td>
+    <td></td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+
+  <tr class="g5">
+    <td> </td>
+    <td>
+      <ul>
+        <li>Statistik (3 sks)</li>
+        <li>Perekonomian Indonesia (3 sks)</li>
+        <li>Manajemen Strategi (3 sks)</li>
+        <li>Riset Operasional (3 sks)</li>
+      </ul>
+    </td>
+    <td>STIE Panca Setia Banjarmasin</td>
+    <td align="center">(Smt.Genap) 2010/2011</td>
+    <td align="center">5.5.</td>
+    <td>SK.Nomor : 003/PTS 240.XI.01/KEP/Q 2011 Tgl. 1 Maret 2011</td>
+  </tr>
+  
+  <tr class="g5">
+    <td></td>
+    <td>
+      <b>Sub Jumlah Kegiatan Pengajaran</b>
+    </td>
+    <td> </td>
+    <td> </td>
+    <td align="center">22</td>
+    <td> </td>
+  </tr>
+
+  <tr class="g5" align="center">
+  	<th>1</th>
+		<th>2</th>
+		<th>3</th>
+		<th>4</th>
+		<th>5</th>
+		<th>6</th>
+  </tr>
+
+  <tr class="g5">
+    <td> </td>
+    <td>
+      <u>
+        <b>
+          Membimbing Dan Ikut Membimbing Dalam Menghasilkan Disertasi, Thesis, Skripsi, Dan Laporan Akhir Studi
+        </b>
+      </u>
+    </td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr class="g5">
+    <td>1</td>
+    <td>Pembimbing II Skripsi Mahasiswa An. :</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr class="g5">
+    <td></td>
+    <td>
+      <ul>
+        <li>Diah Marwiati (NPM.0611.32202.1452)</li>
+      </ul>
+    </td>
+    <td>STIE Panca Setia Banjarmasin</td>
+    <td align="center">(Smt.Ganjil) 2009/2010</td>
+    <td align="center">0.5</td>
+    <td>Surat Penunjukan Nomor : 020/PTS 240.XI.01/Q 2010 Tgl. 7 Januari 2010</td>
+  </tr>
+
+  <tr class="g5">
+    <td>2</td>
+    <td>Pembimbing II Skripsi Mahasiswa An. :</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr class="g5">
+    <td></td>
+    <td>
+      <ul>
+        <li>Evita Triana Lestari (NPM. 0611.32202.2931)</li>
+      </ul>
+    </td>
+    <td>STIE Panca Setia Banjarmasin</td>
+    <td align="center">(Smt.Ganjil) 2009/2010</td>
+    <td align="center">0.5</td>
+    <td>Surat Penunjukan Nomor : 021/PTS 240.XI.01/Q 2010 Tgl. 7 Januari 2010</td>
+  </tr>
