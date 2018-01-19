@@ -94,5 +94,30 @@
     <td>STIE Panca Setia Banjarmasin</td>
     <td align="center">(Smt.Ganjil) 2009/2010</td>
     <td align="center">5.5.</td>
-    <td>SK.Nomor : 007/PTS 240.XI.01/KEP/Q 2009 Tgl. 14 Oktober 2009</td>
+    <td>SK.Nomor : 007/P
+	TS 240.XI.01/KEP/Q 2009 Tgl. 14 Oktober 2009</td>
 </tr>
+ <tr class="g5">
+    <td class="tisi-baqh bold">2.</td>
+    <td>Memberi Kuliah :</td>
+    <td></td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+
+  <tr class="g5">
+    <td> </td>
+    <td>
+      <ul>
+        <li>Riset Pemasaran (3 sks)</li>
+        <li>Akutansi Biaya (3 sks)</li>
+        <li>Perekonomian Indonesia (3 sks)</li>
+        <li>Pengantar Ekonomi Makro (3 sks)</li>
+      </ul>
+    </td>
+    <td>STIE Panca Setia Banjarmasin</td>
+    <td align="center">(Smt.Genap) 2009/2010</td>
+    <td align="center">5.5.</td>
+    <td>SK.Nomor : 004/PTS 240.XI.01/KEP/Q 2010 Tgl. 8 Maret 2010</td>
+  </tr>
