@@ -10,7 +10,7 @@ include ("library.php");
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" contest ="IE-edge">
   <meta name="viewport" content="width-device-width,  initial -scale=1">
-  <title>Praktikum Pemograman Web</title>
+  <title>CRUD</title>
   <link href="css/site.css" rel="stylesheet">
   <link href="css/bootstrap.min.css" rel="stylesheet">
 
@@ -26,6 +26,8 @@ include ("library.php");
     <li ><a href="#">Master Data</a>
       <ul>
       <li ><a href="Karyawan_data.php">Karyawan Data</a><li>
+                    <li> <a href="barang.php">Barang </a></li>
+
       </li>
       </ul>
       <li> <a href="#" > Laporan </a>
