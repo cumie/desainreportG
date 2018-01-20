@@ -23,7 +23,7 @@
                 $pageSql="SELECT * FROM karyawan WHERE nik like '%$qcari%' or no_telpon like '%$qcari%' or tempat_lahir like '%$qcari%' ";
               }
 ?>
- <span class="glyphicon glyphicon-plus" aria-hidden="true"></span><a href="karyawan_add2.php">Tambah Data</a>
+ <span class="glyphicon glyphicon-plus" aria-hidden="true"></span><a href="karyawan_add.php">Tambah Data</a>
       <br/>
       <br/>
 <div class="form-group">

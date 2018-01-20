@@ -22,7 +22,7 @@ include ("library.php");
     <nav class="navbar navbar-inverse ">
     <div id ="navbar" >
     <ul class="dropDownMenu">
-    <li ><a href="/latihan_app1/">Beranda</a>
+    <li ><a href="index.php">Beranda</a>
     <li ><a href="#">Master Data</a>
       <ul>
       <li ><a href="Karyawan_data.php">Karyawan Data</a><li>
@@ -42,11 +42,11 @@ include ("library.php");
       </div>
       <div class="container">
       <div class="content">
-<h2>Praktikum Pemograman Web</h2>
+<h2>Web CRUD Berbasis PHP, HTML DAN CSS</h2>
 <hr />
 
 <div class="well">
-  <p> Selamat Datang di Praktikum Pemograman Web dengan PHP </p>
+  <p> Designed By Eko Wijaya </p>
 </div>
 </div>
 </div>
