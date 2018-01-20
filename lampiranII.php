@@ -248,3 +248,45 @@
     <td align="center">0.5</td>
     <td>Surat Penunjukan Nomor : 021/PTS 240.XI.01/Q 2010 Tgl. 7 Januari 2010</td>
   </tr>
+
+  <tr class="g5">
+    <td>3</td>
+    <td>Pembimbing II Skripsi Mahasiswa An. :</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr class="g5">
+    <td></td>
+    <td>
+      <ul>
+        <li>Revian Lara (NPM.0511.32202.750)</li>
+      </ul>
+    </td>
+    <td>STIE Panca Setia Banjarmasin</td>
+    <td align="center">(Smt.Ganjil) 2009/2010</td>
+    <td align="center">0.5</td>
+    <td>Surat Penunjukan Nomor : 012/PTS 240.XI.01/Q 2010 Tgl. 5 Januari 2010</td>
+  </tr>
+
+  <tr class="g5">
+    <td>4</td>
+    <td>Pembimbing II Skripsi Mahasiswa An. :</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr class="g5">
+    <td></td>
+    <td>
+      <ul>
+        <li>Burhan (NPM.0611.32202.1649)</li>
+      </ul>
+    </td>
+    <td>STIE Panca Setia Banjarmasin</td>
+    <td align="center">(Smt.Ganjil) 2009/2010</td>
+    <td align="center">0.5</td>
+    <td>Surat Penunjukan Nomor : 011/PTS 240.XI.01/Q 2010 Tgl. 5 Januari 2010</td>
+  </tr>
