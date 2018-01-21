@@ -12,10 +12,8 @@
                   $no_telepon         = $_POST['no_telepon'];
                   $jabatan            = $_POST['jabatan'];
                   $status             = $_POST['status'];
-
                   $cek = mysqli_query($koneksi, "SELECT * FROM karyawan WHERE nik='$nik'");
                   if(mysqli_num_rows($cek) == 0){
-
                           $insert = mysqli_query($koneksi, "INSERT INTO karyawan(nik, nama, tempat_lahir, tanggal_lahir,no_telepon, jabatan, status)
                                                       VALUES('$nik','$nama', '$tempat_lahir','$tanggal_lahir', '$no_telepon','$jabatan','$status')") or die(mysqli_error($koneksi));
                     if($insert){
@@ -30,7 +28,6 @@
                     $now = strtotime(date("Y-m-d"));
                     $maxage = date('Y-m-d', strtotime('- 16 year', $now));
                     $minage = date('Y-m-d', strtotime('- 40 year', $now));
-
                 ?>
 
                   <form class="form-horizontal" action="" method="post">
