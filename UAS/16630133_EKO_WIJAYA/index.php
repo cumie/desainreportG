@@ -35,6 +35,8 @@ include ("library.php");
       <li> <a href="Karyawan_cetak.php"> Cetak Data Karyawan</a></li>
       <ul>
       </li>
+                <li><a href="https://w17aya.000webhostapp.com/index.html">Profil</a></li>
+
       </ul>
       </div>
       </nav>
