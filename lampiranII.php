@@ -310,3 +310,306 @@
     <td align="center">0.5</td>
     <td>Surat Penunjukan Nomor : 010/PTS 240.XI.01/Q 2010 Tgl. 5 Januari 2010</td>
 </tr>
+
+ <tr class="g5">
+    <td>6</td>
+    <td>Pembimbing II Skripsi Mahasiswa An. :</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr class="g5">
+    <td></td>
+    <td>
+      <ul>
+        <li>Eny Siswati (NPM.0611.32202.1269)</li>
+      </ul>
+    </td>
+    <td>STIE Panca Setia Banjarmasin</td>
+    <td align="center">(Smt.Ganjil) 2009/2010</td>
+    <td align="center">0.5</td>
+    <td>Surat Penunjukan Nomor : 0009/PTS 240.XI.01/Q 2010 Tgl. 5 Januari 2010</td>
+  </tr>
+
+  <tr class="g5">
+    <td>7</td>
+    <td>Pembimbing II Skripsi Mahasiswa An. :</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr class="g5">
+    <td></td>
+    <td>
+      <ul>
+        <li>H.M.Adhri Kasuma (NPM. 0611.32202.996)</li>
+      </ul>
+    </td>
+    <td>STIE Panca Setia Banjarmasin</td>
+    <td align="center">(Smt.Ganjil) 2009/2010</td>
+    <td align="center">0.5</td>
+    <td>Surat Penunjukan Nomor : 0008/PTS 240.XI.01/Q 2010 Tgl. 5 Januari 2010</td>
+  </tr>
+
+  <tr class="g5">
+    <td>8</td>
+    <td>Pembimbing II Skripsi Mahasiswa An. :</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr class="g5">
+    <td></td>
+    <td>
+      <ul>
+        <li>Catur Widiyanto (NPM. 0611.32202.1388)</li>
+      </ul>
+    </td>
+    <td>STIE Panca Setia Banjarmasin</td>
+    <td align="center">(Smt.Ganjil) 2009/2010</td>
+    <td align="center">0.5</td>
+    <td>Surat Penunjukan Nomor : 0007/PTS 240.XI.01/Q 2010 Tgl. 5 Januari 2010</td>
+  </tr>
+
+  <tr class="g5">
+    <td>9</td>
+    <td>Pembimbing II Skripsi Mahasiswa An. :</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr class="g5">
+    <td></td>
+    <td>
+      <ul>
+        <li>Hendra Wardana (NPM. 0511.32202.655)</li>
+      </ul>
+    </td>
+    <td>STIE Panca Setia Banjarmasin</td>
+    <td align="center">(Smt.Ganjil) 2009/2010</td>
+    <td align="center">0.5</td>
+    <td>Surat Penunjukan Nomor : 3190/PTS 240.XI.01/Q 2010 Tgl. 4 Juli 2010</td>
+  </tr>
+
+  <tr class="g5">
+    <td>10</td>
+    <td>Pembimbing II Skripsi Mahasiswa An. :</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr class="g5">
+    <td></td>
+    <td>
+      <ul>
+        <li>Siti Khoiriyah  (NPM. 0711.32202.1818)</li>
+      </ul>
+    </td>
+    <td>STIE Panca Setia Banjarmasin</td>
+    <td align="center">(Smt.Ganjil) 2009/2010</td>
+    <td align="center">0.5</td>
+    <td>Surat Penunjukan Nomor : 3187/PTS 240.XI.01/Q 2010 Tgl. 1 Juli 2010</td>
+  </tr>
+
+  <tr class="g5">
+    <td>11</td>
+    <td>Pembimbing II Skripsi Mahasiswa An. :</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr class="g5">
+    <td></td>
+    <td>
+      <ul>
+        <li> Budi Utomo (NPM. 0711.32202.2102)</li>
+      </ul>
+    </td>
+    <td>STIE Panca Setia Banjarmasin</td>
+    <td align="center">(Smt.Ganjil) 2009/2010</td>
+    <td align="center">0.5</td>
+    <td>Surat Penunjukan Nomor : 2603/PTS 240.XI.01/Q 2010 Tgl. 7 Juli 2010</td>
+  </tr>
+
+  <tr class="g5">
+    <td>12</td>
+    <td>Pembimbing II Skripsi Mahasiswa An. :</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr class="g5">
+    <td></td>
+    <td>
+      <ul>
+        <li> Gt Sahida Purnamasari (NPM. 0711.32202.2269)</li>
+      </ul>
+    </td>
+    <td>STIE Panca Setia Banjarmasin</td>
+    <td align="center">(Smt.Ganjil) 2009/2010</td>
+    <td align="center">0.5</td>
+    <td>Surat Penunjukan Nomor : 2598/PTS 240.XI.01/Q 2010 Tgl. 7 Juli 2010</td>
+  </tr>
+
+  <tr class="g5">
+    <td>13</td>
+    <td>Pembimbing II Skripsi Mahasiswa An. :</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr class="g5">
+    <td></td>
+    <td>
+      <ul>
+        <li> Gt Sahida Purnamasari (NPM. 0711.32202.2269)</li>
+      </ul>
+    </td>
+    <td>STIE Panca Setia Banjarmasin</td>
+    <td align="center">(Smt.Ganjil) 2009/2010</td>
+    <td align="center">0.5</td>
+    <td>Surat Penunjukan Nomor : 2598/PTS 240.XI.01/Q 2010 Tgl. 7 Juli 2010</td>
+  </tr>
+
+  <tr class="g5">
+    <td>14</td>
+    <td>Pembimbing II Skripsi Mahasiswa An. :</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr class="g5">
+    <td></td>
+    <td>
+      <ul>
+        <li> Kurnia Aprianti (NPM. 0711.32202.2079)</li>
+      </ul>
+    </td>
+    <td>STIE Panca Setia Banjarmasin</td>
+    <td align="center">(Smt.Ganjil) 2009/2010</td>
+    <td align="center">0.5</td>
+    <td>Surat Penunjukan Nomor : 2598/PTS 240.XI.01/Q 2010 Tgl. 7 Juli 2010</td>
+  </tr>
+
+  <tr class="g5">
+    <td>15</td>
+    <td>Pembimbing II Skripsi Mahasiswa An. :</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr class="g5">
+    <td></td>
+    <td>
+      <ul>
+        <li> Emmy Rahmiany (NPM. 0711.32202.2424)</li>
+      </ul>
+    </td>
+    <td>STIE Panca Setia Banjarmasin</td>
+    <td align="center">(Smt.Ganjil) 2009/2010</td>
+    <td align="center">0.5</td>
+    <td>Surat Penunjukan Nomor : 3201/PTS 240.XI.01/Q 2010 Tgl. 4 Juli 2010</td>
+  </tr>
+
+  <tr class="g5">
+    <td>16</td>
+    <td>Pembimbing II Skripsi Mahasiswa An. :</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr class="g5">
+    <td></td>
+    <td>
+      <ul>
+        <li> Anton Kristanto (NPM. 0711.32202.2205)</li>
+      </ul>
+    </td>
+    <td>STIE Panca Setia Banjarmasin</td>
+    <td align="center">(Smt.Ganjil) 2009/2010</td>
+    <td align="center">0.5</td>
+    <td>Surat Penunjukan Nomor : 3191/PTS 240.XI.01/Q 2010 Tgl. 4 Juli 2010</td>
+  </tr>
+
+  <tr class="g5" align="center">
+    <th>1</th>
+    <th>2</th>
+    <th>3</th>
+    <th>4</th>
+    <th>5</th>
+    <th>6</th>
+  </tr>
+  
+  <tr class="g5">
+    <td>17</td>
+    <td>Pembimbing II Skripsi Mahasiswa An. :</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr class="g5">
+    <td></td>
+    <td>
+      <ul>
+        <li> Sudaris (NPM. 0711.32202.2334)</li>
+      </ul>
+    </td>
+    <td>STIE Panca Setia Banjarmasin</td>
+    <td align="center">(Smt.Ganjil) 2009/2010</td>
+    <td align="center">0.5</td>
+    <td>Surat Penunjukan Nomor : 2602/PTS 240.XI.01/Q 2010 Tgl. 7 Agustus 2010</td>
+  </tr>
+
+  <tr class="g5">
+    <td>18</td>
+    <td>Pembimbing II Skripsi Mahasiswa An. :</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr class="g5">
+    <td></td>
+    <td>
+      <ul>
+        <li> Trio Bayu Wardana (NPM. 0711.32202.2183)</li>
+      </ul>
+    </td>
+    <td>STIE Panca Setia Banjarmasin</td>
+    <td align="center">(Smt.Ganjil) 2010/2011</td>
+    <td align="center">0.5</td>
+    <td>Surat Penunjukan Nomor : 2783/PTS 240.XI.01/Q 2010 Tgl. 22 September 2010</td>
+  </tr>
+
+  <tr class="g5">
+    <td>19</td>
+    <td>Pembimbing II Skripsi Mahasiswa An. :</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr class="g5">
+    <td></td>
+    <td>
+      <ul>
+        <li> Endah Sulistea Reni (NPM. 0711.32202.2428)</li>
+      </ul>
+    </td>
+    <td>STIE Panca Setia Banjarmasin</td>
+    <td align="center">(Smt.Ganjil) 2010/2011</td>
+    <td align="center">0.5</td>
+    <td>Surat Penunjukan Nomor : 3486/PTS 240.XI.01/Q 2010 Tgl. 9 Nopember 2010</td>
+  </tr>
