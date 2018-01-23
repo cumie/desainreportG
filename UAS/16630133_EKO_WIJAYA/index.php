@@ -23,19 +23,20 @@ include ("library.php");
     <div id ="navbar" >
     <ul class="dropDownMenu">
     <li ><a href="index.php">Beranda</a>
-    <li ><a href="#">Master Data</a>
-      <ul>
-      <li ><a href="Karyawan_data.php">Karyawan Data</a><li>
-                    <li> <a href="barang.php">Barang </a></li>
+          <li ><a href="#">Master Data </a>
+              <ul>
+              <li ><a href="karyawan_data.php">Karyawan Data</a></li>
+                          <li> <a href="barang.php">Barang </a></li>
 
-      </li>
-      </ul>
-      <li> <a href="#" > Laporan </a>
-      <ul>
-      <li> <a href="Karyawan_cetak.php"> Cetak Data Karyawan</a></li>
-      <ul>
-      </li>
-      </ul>
+          </li>
+            </ul>
+          <li> <a href="#" > Laporan </a>
+            <ul>
+            <li> <a href="karyawan_cetak.php">Cetak Data Karyawan </a></li>
+          </li>
+        </ul> 
+          <li><a href="https://w17aya.000webhostapp.com/index.html">Profil</a></li>
+             </ul>
       </div>
       </nav>
       </div>
