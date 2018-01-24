@@ -1,13 +1,13 @@
 <?php include "head.php"; ?>
 <div class="container">
-	<h3>Data Karyawan &raquo; Edit Data</h3>	
+	<h3>Data Dosen &raquo; Edit Data</h3>	
     <hr/>
     <?php include "koneksi.php"; ?>
     <?php include "library.php"; ?>
 
 	<?php
 	$nik = $_GET['nik'];
-	$sql = mysqli_query($koneksi, "SELECT * FROM karyawan WHERE nik='$nik' ");
+	$sql = mysqli_query($koneksi, "SELECT * FROM dosen WHERE nik='$nik' ");
 	if (mysqli_num_rows($sql) == 0){
 		header("Location: index.php");
 		}else{
@@ -18,15 +18,15 @@
 		$nama			= $_POST['nama'];
 		$tempat_lahir	= $_POST['tempat_lahir'];
 		$tanggal_lahir	= $_POST['tanggal_lahir'];
-		$alamat			= $_POST['alamat'];
-		$no_telepon		= $_POST['no_telepon'];
-		$jabatan		= $_POST['jabatan'];
-		$status			= $_POST['status']; 
 		
-		$update = mysqli_query($koneksi, "UPDATE karyawan SET nama='$nama', tempat_lahir='$tempat_lahir', tanggal_lahir='$tanggal_lahir', alamat='$alamat', no_telepon='$no_telepon', jabatan='$jabatan', status='$status' WHERE nik='$nik' ") or die(mysqli_error());
+		$no_telepon		= $_POST['no_telepon'];
+		$prodi		= $_POST['prodi'];
+		$matakuliah			= $_POST['matakuliah']; 
+		
+		$update = mysqli_query($koneksi, "UPDATE dosen SET nama='$nama', tempat_lahir='$tempat_lahir', tanggal_lahir='$tanggal_lahir', no_telepon='$no_telepon', prodi='$prodi', matakuliah='$matakuliah' WHERE nik='$nik' ") or die(mysqli_error());
 		
 		if($update){
-			header("Location: karyawan_data.php?nik=".$nik."&pesan=sukses");
+			header("Location: Dosen_data.php?nik=".$nik."&pesan=sukses");
 			}else{
 				echo '<div class="alert alert-danger alert-dismissable"><button type="button" class="close" data-dismis="alert" aria-hidden="true">&times;</button>Data Gagal Disimpan, silahkan coba lagi !!</div>';
 			}
@@ -34,15 +34,13 @@
 		if (isset($_GET['pesan']) == 'sukses'){
 			echo '<div class="alert alert-success alert-dismissable"><button type="button" class="close" data-dismis="alert" aria-hidden="true">&times;</button>Data Karyawan Berhasil Disimpan.</div>';
 			}
-			$now = strtotime(date("Y-m-d"));
-			$maxage = date('Y-m-d', strtotime('- 16 years, $now'));
-			$minage = date('Y-m-d', strtotime('- 40 years, $now'));
+			
 	?>
     <form class="form-horizontal" action="" method="post">
     	<div class="form-group">
-        	<label class="col-sm-3 control-label">NIK</label>
+        	<label class="col-sm-3 control-label">nik</label>
             <div class="col-sm-2">
-            	<input type="text" name="nik" value="<?php echo $row['nik']; ?>" class="form-control" placeholder="NIK" required>
+            	<input type="text" name="nik" value="<?php echo $row['nik']; ?>" class="form-control" placeholder="nik" required>
             </div>
         </div>
         <div class="form-group">
@@ -62,12 +60,7 @@
             <div class="col-sm-4">
             	<input type="text" name="tanggal_lahir" value="<?php echo $row['tanggal_lahir']; ?>" class=" input-group form-control" min="<?php echo $minage; ?>" max="<?php echo $maxage; ?>" placeholder="yyyy-mm-dd" required>
             </div>
-        </div>
-        <div class="form-group">
-        	<label class="col-sm-3 control-label">Alamat</label>
-            <div class="col-sm-3">
-            	<textarea name="alamat"  class="form-control" placeholder="Alamat"><?php echo $row['alamat']; ?></textarea>
-            </div>
+        
         </div>
         <div class="form-group">
         	<label class="col-sm-3 control-label">No. Telepon</label>
@@ -76,44 +69,53 @@
             </div>
         </div>
         <div class="form-group">
-        	<label class="col-sm-3 control-label">Jabatan</label>
+        	<label class="col-sm-3 control-label">prodi</label>
             <div class="col-sm-2">
-            	<select name="jabatan" class="form-control" required>
-                	<option value="">- Jabatan Terbaru -</option>
-                    <option value="Operator">Operator</option>
-                    <option value="Leader">Leader</option>
-                    <option value="Supervisor">Supervisor</option>
-                    <option value="Manager">Manager</option>
+            	<select name="prodi" class="form-control" required>
+                	<option value="">- prodi Terbaru -</option>
+                    <option value="Teknik Informatika">Teknik Informatika</option>
+                    <option value="Teknik Sipil">Teknik Sipil</option>
+                    <option value="Sistem Informasi">Sistem Informasi</option>
+                    <option value="Kesehatan Masyarakat">Kesehatan Masyarakat</option>
                 </select>
             </div>
             <div class="col-sm-3">
-           	<b>Jabatan Sekarang : </b><span class="label label-success"><?php echo $row['jabatan']; ?></span> 
+           	<b>prodi Sekarang : </b><span class="label label-success"><?php echo $row['prodi']; ?></span> 
             </div>
         </div>
         <div class="form-group">
-        	<label class="col-sm-3 control-label">Status</label>
+        	<label class="col-sm-3 control-label">matakuliah</label>
             <div class="col-sm-2">
-            	<select name="status" class="form-control" required>
-                	<option value="">- Status Terbaru -</option>
-                    <option value="Tetap">Tetap</option>
-                    <option value="Kontrak">Kontrak</option>
-                    <option value="Outsourching">Outsourching</option>
+            	<select name="matakuliah" class="form-control" required>
+                	<option value="">- matakuliah Terbaru -</option>
+                   
+					<option value="VISUAL BASIC">VISUAL BASIC</option>
+                    <option value="KOMPUTER JARINGAN">KOMPUTER JARINGAN</option>
+                    <option value="SISTEM INFORMASI MENEJEMEN">SISTEM INFORMASI MENEJEMEN</option>
+				    <option value="PEMOGRAMAN WEB">PEMOGRAMAN WEB</option>
+					 <option value="PEMOGRAMAN TEKSTURE">PEMOGRAMAN TEKSTURE</option>
                 </select>
             </div>
             <div class="col-sm-3">
-           	<b>Status Sekarang : </b>
+           	<b>matakuliah Sekarang : </b>
             <?php 
-						if($row['status']== 'Tetap'){	
+						if($row['matakuliah']== 'VISUAL BASIC'){	
 						?>
-                    <span class="label label-success">Tetap</span>
+                    <span class="label label-success">VISUAL BASIC</span>
                     <?php }
-						else if($row['status']== 'Kontrak'){
+						else if($row['matakuliah']== 'GKOMPUTER JARINGAN'){
                     ?>
-                    <span class="label label-info">Kontrak</span>
+                    <span class="label label-info">KOMPUTER JARINGAN</span>
                     <?php }
-						else if($row['status']== 'Outsourching'){
+						else if($row['matakuliah']== 'SISTEM INFORMASI MENEJEMEN'){
 					?>
-                    <span class="label label-warning">Outsourching</span>
+                    <span class="label label-warning">SISTEM INFORMASI MENEJEMENl</span>
+					
+					 <?php }
+						else if($row['matakuliah']== 'PEMOGRAMAN WEB'){
+					?>
+                    <span class="label label-warning">PEMOGRAMAN WEB</span>
+					
                    <?php } ?>
             </div>
         </div>
@@ -121,7 +123,7 @@
         	<label class="col-sm-3 control-label">&nbsp;</label>
             <div class="col-sm-6">
             	<input type="submit" name="save" class="btn btn-sm btn-primary" value="Simpan">
-                <a href="karyawan_data.php" class="btn btn-sm btn-danger">Batal</a>
+                <a href="Dosen_data.php" class="btn btn-sm btn-danger">Batal</a>
             </div>
         </div>
     </form>
