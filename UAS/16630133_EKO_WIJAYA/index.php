@@ -26,7 +26,6 @@ include ("library.php");
           <li ><a href="#">Master Data </a>
               <ul>
               <li ><a href="karyawan_data.php">Karyawan Data</a></li>
-                          <li> <a href="barang.php">Barang </a></li>
 
           </li>
             </ul>
