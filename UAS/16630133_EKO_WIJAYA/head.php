@@ -54,7 +54,7 @@
 			
 			
 			</li>
-            <li><a href="bukutamu.php">Buku Tamu</a>
+        
          
         </ul>
         </div>
