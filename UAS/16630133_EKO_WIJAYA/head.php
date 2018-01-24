@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <title> web/crud/gusti shobah</title>
+    <title> W17AYA</title>
     <link href="css/site.css" rel="stylesheet">
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link rel="shortcut icon" href="img/index.png">
@@ -50,7 +50,7 @@
 					<li><a href="dosen_cetak.php">Cetak Data Dosen</a></li>
                 </ul>
             </li>
-            <li><a href="profil12.php">Profil Saya</a>
+          <li><a href="https://w17aya.000webhostapp.com/index.html">Profil</a></li>
 			
 			
 			</li>

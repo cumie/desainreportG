@@ -2,7 +2,7 @@
 $db_host = "localhost";
 $db_user = "root";
 $db_pass = ""; 
-$db_name = "uas_16630510";
+$db_name = "uas_16630133";
 
 $koneksi = mysqli_connect($db_host,$db_user,$db_pass,$db_name);
 
