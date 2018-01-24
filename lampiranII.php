@@ -620,7 +620,11 @@
     <td>Surat Penunjukan Nomor : 3486/PTS 240.XI.01/Q 2010 Tgl. 9 Nopember 2010</td>
   </tr>
 
+<<<<<<< HEAD
+  <tr class="g5">
+=======
    <tr class="g5">
+>>>>>>> 8f0a054b76f7814dbb98764c60b619ced3de165a
     <td>20</td>
     <td>Pembimbing II Skripsi Mahasiswa An. :</td>
     <td></td>
@@ -639,6 +643,9 @@
     <td align="center">(Smt.Ganjil) 2010/2011</td>
     <td align="center">0.5</td>
     <td>Surat Penunjukan Nomor : 3479/PTS 240.XI.01/Q 2010 Tgl. 9 Nopember 2010</td>
+<<<<<<< HEAD
+</tr>
+=======
   </tr>
 
   <tr class="g5">
@@ -704,3 +711,4 @@
     <td>Surat Penunjukan Nomor : 3500/PTS 240.XI.01/Q 2010 Tgl. 9 Nopember 2010</td>
   </tr>
 
+>>>>>>> 8f0a054b76f7814dbb98764c60b619ced3de165a
