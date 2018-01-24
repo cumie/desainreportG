@@ -1,0 +1,32 @@
+<table  width="100%"  >
+<tr class="tg-baqh">
+	<p><p style="font-size: 14" align="left">Demikian pernyataan ini dibuat untuk dapat dipergunakan sebagaimana mestinya.</td>
+	<p style="font-size: 14" align="center"></td></p>
+	<p style="font-size: 14" align="right">Banjarmasin, 30 April 2011<br/>
+	<br/>
+	Yang Membuat Pernyataan<br/>
+	Puket I STIE Panca Setia B.Masin<br/>
+	<br/>
+	<br/>
+	</p></td>	
+</tr>
+
+<tr class="tg-baqh">
+	<td <p style="font-size: 14" align="left"><p>Catatan : 
+	<p style="text-align: left">1. Dibuat per semester.
+	<p>2. Ditanda tangani oleh Ketua Jurusan pada Univ/Sekolah TInggi/Akedemi/Politeknik.</p>
+	3. Dilampirkan bukti-bukti kegiatan tersebut di atas.</td>
+	<td class="tg-baqh" width="100"><p style="font-size: 12" align="center"></td></p>
+	<td class="tg-baqh" width="250" align="right"><p style="font-size: 14" align="right"><br/>
+	<br/>
+	<br/>
+	Sutrisno, SE, MM<br/>
+	NIP. 19670512 200501 1 001<br/>
+	
+	</p></td>	
+</tr>
+</table>
+
+<?php include('foot.php');
+
+?>
