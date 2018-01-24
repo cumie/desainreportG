@@ -619,4 +619,88 @@
     <td align="center">0.5</td>
     <td>Surat Penunjukan Nomor : 3486/PTS 240.XI.01/Q 2010 Tgl. 9 Nopember 2010</td>
   </tr>
->>>>>>> bf8a0c908552964c9d71937437b76bec540cb369
+
+   <tr class="g5">
+    <td>20</td>
+    <td>Pembimbing II Skripsi Mahasiswa An. :</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr class="g5">
+    <td></td>
+    <td>
+      <ul>
+        <li> Saidah Ridhani (NPM. 0711.32202.2944)</li>
+      </ul>
+    </td>
+    <td>STIE Panca Setia Banjarmasin</td>
+    <td align="center">(Smt.Ganjil) 2010/2011</td>
+    <td align="center">0.5</td>
+    <td>Surat Penunjukan Nomor : 3479/PTS 240.XI.01/Q 2010 Tgl. 9 Nopember 2010</td>
+  </tr>
+
+  <tr class="g5">
+    <td>21</td>
+    <td>Pembimbing II Skripsi Mahasiswa An. :</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr class="g5">
+    <td></td>
+    <td>
+      <ul>
+        <li> Lola Malihah (NPM. 0811.32202.3857)</li>
+      </ul>
+    </td>
+    <td>STIE Panca Setia Banjarmasin</td>
+    <td align="center">(Smt.Ganjil) 2010/2011</td>
+    <td align="center">0.5</td>
+    <td>Surat Penunjukan Nomor : 3480/PTS 240.XI.01/Q 2010 Tgl. 9 Nopember 2010</td>
+  </tr>
+
+  <tr class="g5">
+    <td>22</td>
+    <td>Pembimbing II Skripsi Mahasiswa An. :</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr class="g5">
+    <td></td>
+    <td>
+      <ul>
+        <li> Alamsyah (NPM. 0711.32202.1900)</li>
+      </ul>
+    </td>
+    <td>STIE Panca Setia Banjarmasin</td>
+    <td align="center">(Smt.Ganjil) 2010/2011</td>
+    <td align="center">0.5</td>
+    <td>Surat Penunjukan Nomor : 3649/PTS 240.XI.01/Q 2010 Tgl. 10 Desember 2010</td>
+  </tr>
+
+  <tr class="g5">
+    <td>23</td>
+    <td>Pembimbing II Skripsi Mahasiswa An. :</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr class="g5">
+    <td></td>
+    <td>
+      <ul>
+        <li> Maya Sari (NPM. 0611.32202.1583)</li>
+      </ul>
+    </td>
+    <td>STIE Panca Setia Banjarmasin</td>
+    <td align="center">(Smt.Ganjil) 2010/2011</td>
+    <td align="center">0.5</td>
+    <td>Surat Penunjukan Nomor : 3500/PTS 240.XI.01/Q 2010 Tgl. 9 Nopember 2010</td>
+  </tr>
+
