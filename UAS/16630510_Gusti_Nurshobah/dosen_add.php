@@ -1,6 +1,6 @@
 <?php include "head.php"; ?>
 	<div class="container">
-	<h3>Data Karyawan &raquo; Tambah Data</h3>
+	<h3>Data Dosen &raquo; Tambah Data</h3>
     <hr/>
     <?php include "koneksi.php"; ?>
     <?php
@@ -9,33 +9,35 @@
 			$nama			=$_POST['nama'];
 			$tempat_lahir	=$_POST['tempat_lahir'];
 			$tanggal_lahir	=$_POST['tanggal_lahir'];
-			$alamat			=$_POST['alamat'];
-			$no_telepon		=$_POST['no_telepon'];
-			$jabatan		=$_POST['jabatan'];
-			$status			=$_POST['status'];
 			
-			$cek = mysqli_query($koneksi, "SELECT * FROM karyawan WHERE nik='$nik'");
+			$no_telepon		=$_POST['no_telepon'];
+			$prodi		=$_POST['prodi'];
+			$matakuliah		=$_POST['matakuliah'];
+			
+			$cek = mysqli_query($koneksi, "SELECT * FROM dosen WHERE nik ='$nik'");
 			if(mysqli_num_rows($cek)==0){
 				
-			$insert = mysqli_query($koneksi, "INSERT INTO karyawan(nik,nama,tempat_lahir,tanggal_lahir,alamat,no_telepon,jabatan,status) VALUES ('$nik','$nama','$tempat_lahir','$tanggal_lahir','$alamat','$no_telepon','$jabatan','$status')") or die(mysql_error($koneksi));
+			$insert = mysqli_query($koneksi, "INSERT INTO dosen(nik,nama,tempat_lahir,tanggal_lahir,no_telepon,prodi,matakuliah) VALUES ('$nik','$nama','$tempat_lahir','$tanggal_lahir','$no_telepon','$prodi','$matakuliah')") or die(mysql_error($koneksi));
 				if ($insert){
-					echo '<div class="alert alert-success alert-dismissable"><button type="button" class="close" data-dismis="alert" aria-hidden="true">&times;</button>Data Karyawan Berhasil Disimpan.</div>';
+					echo '<div class="alert alert-success alert-dismissable"><button type="button" class="close" data-dismis="alert" aria-hidden="true">&times;</button>Data dosen Berhasil Disimpan.</div>';
 				}
 				else{
 					echo '<div class="alert alert-danger alert-dismissable"><button type="button" class="close" data-dismis="alert" aria-hidden="true">&times;</button>Data Gagal Disimpan.</div>';
 					}
 				}
 			else {
-				echo '<div class="alert alert-danger alert-dismissable"><button type="button" class="close" data-dismis="alert" aria-hidden="true">&times;</button>NIK sudah ada...!!</div>';	
+				echo '<div class="alert alert-danger alert-dismissable"><button type="button" class="close" data-dismis="alert" aria-hidden="true">&times;</button>nik sudah ada...!!</div>';	
 				}
 			}
-			
+			$now = strtotime(date("m-d-y"));
+			$maxage = date('m-d-y', strtotime('- 16 years, $now'));
+			$minage = date('m-d-y', strtotime('- 40 years, $now'));
 	?>
 	<form class="form-horizontal" action="" method="post">
     	<div class="form-group">
-        	<label class="col-sm-3 control-label">NIK</label>
+        	<label class="col-sm-3 control-label">nik</label>
             <div class="col-sm-2">
-            	<input type="text" name="nik" class="form-control" placeholder="NIK" required>
+            	<input type="text" name="nik" class="form-control" placeholder="nik" required>
             </div>
         </div>
         <div class="form-group">
@@ -55,12 +57,7 @@
             <div class="col-sm-4">
             	<input type="date" name="tanggal_lahir" value="" min="<?php echo $minage; ?>" max="<?php echo $maxage; ?>" class="input-group form-control" placeholder="yyyy-mm-dd" required>
             </div>
-        </div>
-         <div class="form-group">
-        	<label class="col-sm-3 control-label">Alamat</label>
-            <div class="col-sm-3">
-            	<textarea name="alamat" class="form-control" placeholder="Alamat"></textarea> 
-            </div>
+      
         </div>
          <div class="form-group">
         	<label class="col-sm-3 control-label">No Telepon</label>
@@ -69,26 +66,28 @@
             </div>
         </div>
          <div class="form-group">
-        	<label class="col-sm-3 control-label">Jabatan</label>
+        	<label class="col-sm-3 control-label">prodi</label>
             <div class="col-sm-2">
-            	<select name="jabatan" class="form-control" required>
+            	<select name="prodi" class="form-control" required>
                 	<option value="">- pilih -</option>
-                    <option value="Operator">Operator</option>
-                    <option value="Leader">Leader</option>
-                    <option value="Supervisor">Supervisor</option>
-                    <option value="Manager">Manager</option>
+                    <option value="Teknik Informatika">Teknik Informatika</option>
+                    <option value="Teknik Sipil">Teknik Sipil</option>
+                    <option value="Sistem Informasi">Sistem Informasi</option>
+                    <option value="Kesehatan Masyarakat">Kesehatan Masyarakat</option>
                 </select>
             </div>
         </div>
         
          <div class="form-group">
-        	<label class="col-sm-3 control-label">Status</label>
+        	<label class="col-sm-3 control-label">matakuliah</label>
             <div class="col-sm-2">
-            	<select name="status" class="form-control" required>
+            	<select name="matakuliah" class="form-control" required>
                 	<option value="">- pilih -</option>
-                    <option value="Outsourching">Outsourching</option>
-                    <option value="Kontrak">Kontrak</option>
-                    <option value="Tetap">Tetap</option>
+                    <option value="VISUAL BASIC">VISUAL BASIC</option>
+                    <option value="KOMPUTER JARINGAN">KOMPUTER JARINGAN</option>
+                    <option value="SISTEM INFORMASI MENEJEMEN">SISTEM INFORMASI MENEJEMEN</option>
+				    <option value="PEMOGRAMAN WEB">PEMOGRAMAN WEB</option>
+					 <option value="PEMOGRAMAN TEKSTURE">PEMOGRAMAN TEKSTURE</option>
                 </select>
             </div>
         </div>
@@ -96,8 +95,8 @@
         	<label class="col-sm-3 control-label">&nbsp;</label>
             <div class="col-sm-6">
            		<input type="submit" name="add" class="btn btn-sm btn-primary" value="Simpan"/>
-                <a href="karyawan_data.php" class="btn btn-sm btn-danger"><span class="glyphicon glyphicon-remove"></span> Batal</a>
-                <a href="karyawan_data.php" class="btn btn-sm btn-info"><span class="glyphicon glyphicon-eye-open"></span> Lihat</a>
+                <a href="dosen_data.php" class="btn btn-sm btn-danger"><span class="glyphicon glyphicon-remove"></span> Batal</a>
+                <a href="dosen_data.php" class="btn btn-sm btn-info"><span class="glyphicon glyphicon-eye-open"></span> Lihat</a>
             </div>
         </div>
     </form>

@@ -27,7 +27,7 @@
 <body background="img/jk.jpg">
 <div class="container">
 	<div class="content">
-	<img class="img" src="img/slider.jpg" height="200" width="100%">
+	<img class="img" src="img/slide1.jpg" height="200" width="100%">
     	<nav class="navbar navbar-inverse">
         <div id="navbar">
 		
@@ -54,7 +54,7 @@
 			
 			
 			</li>
-        
+            <li><a href="bukutamu.php">Buku Tamu</a>
          
         </ul>
         </div>

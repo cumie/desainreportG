@@ -620,7 +620,11 @@
     <td>Surat Penunjukan Nomor : 3486/PTS 240.XI.01/Q 2010 Tgl. 9 Nopember 2010</td>
   </tr>
 
+<<<<<<< HEAD
   <tr class="g5">
+=======
+   <tr class="g5">
+>>>>>>> 8f0a054b76f7814dbb98764c60b619ced3de165a
     <td>20</td>
     <td>Pembimbing II Skripsi Mahasiswa An. :</td>
     <td></td>
@@ -639,4 +643,72 @@
     <td align="center">(Smt.Ganjil) 2010/2011</td>
     <td align="center">0.5</td>
     <td>Surat Penunjukan Nomor : 3479/PTS 240.XI.01/Q 2010 Tgl. 9 Nopember 2010</td>
+<<<<<<< HEAD
 </tr>
+=======
+  </tr>
+
+  <tr class="g5">
+    <td>21</td>
+    <td>Pembimbing II Skripsi Mahasiswa An. :</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr class="g5">
+    <td></td>
+    <td>
+      <ul>
+        <li> Lola Malihah (NPM. 0811.32202.3857)</li>
+      </ul>
+    </td>
+    <td>STIE Panca Setia Banjarmasin</td>
+    <td align="center">(Smt.Ganjil) 2010/2011</td>
+    <td align="center">0.5</td>
+    <td>Surat Penunjukan Nomor : 3480/PTS 240.XI.01/Q 2010 Tgl. 9 Nopember 2010</td>
+  </tr>
+
+  <tr class="g5">
+    <td>22</td>
+    <td>Pembimbing II Skripsi Mahasiswa An. :</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr class="g5">
+    <td></td>
+    <td>
+      <ul>
+        <li> Alamsyah (NPM. 0711.32202.1900)</li>
+      </ul>
+    </td>
+    <td>STIE Panca Setia Banjarmasin</td>
+    <td align="center">(Smt.Ganjil) 2010/2011</td>
+    <td align="center">0.5</td>
+    <td>Surat Penunjukan Nomor : 3649/PTS 240.XI.01/Q 2010 Tgl. 10 Desember 2010</td>
+  </tr>
+
+  <tr class="g5">
+    <td>23</td>
+    <td>Pembimbing II Skripsi Mahasiswa An. :</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr class="g5">
+    <td></td>
+    <td>
+      <ul>
+        <li> Maya Sari (NPM. 0611.32202.1583)</li>
+      </ul>
+    </td>
+    <td>STIE Panca Setia Banjarmasin</td>
+    <td align="center">(Smt.Ganjil) 2010/2011</td>
+    <td align="center">0.5</td>
+    <td>Surat Penunjukan Nomor : 3500/PTS 240.XI.01/Q 2010 Tgl. 9 Nopember 2010</td>
+  </tr>
+
+>>>>>>> 8f0a054b76f7814dbb98764c60b619ced3de165a
