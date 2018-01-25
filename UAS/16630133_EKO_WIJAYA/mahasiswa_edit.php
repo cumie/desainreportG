@@ -87,12 +87,11 @@
         </div>
         <div class="form-group">
         	<label class="col-sm-3 control-label">Semester</label>
-            <div class="col-sm-2">
+            <div class="col-sm-3">
             	<select name="semester" class="form-control" required>
                 	<option value="">- Semester Terbaru -</option>
                     <option value="Ganjil">Ganjil</option>
                     <option value="Genap">Genap</option>
-                    <option value="Ganjil">Ganjil</option>
                 </select>
             </div>
             <div class="col-sm-3">

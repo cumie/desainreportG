@@ -85,7 +85,7 @@
         </div>
         <div class="form-group">
             <label class="col-sm-3 control-label">matakuliah</label>
-            <div class="col-sm-2">
+            <div class="col-sm-3">
                 <select name="matakuliah" class="form-control" required>
                     <option value="">- matakuliah Terbaru -</option>
                    
