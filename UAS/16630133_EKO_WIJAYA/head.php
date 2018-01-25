@@ -24,7 +24,10 @@
 	
 	
 	
-<body background="img/jk.jpg">
+<body
+	background: blue;
+	color: white;
+}
 <div class="container">
 	<div class="content">
 	<img class="img" src="img/slider.jpg" height="200" width="100%">
