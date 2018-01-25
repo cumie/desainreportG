@@ -2,8 +2,6 @@
 ?>
 
 <link href="css/site.css" rel="stylesheet" type="text/css" /> 
-<body onload="window.print();">
-
 
 <style type="text/css">
 .tg-baqh {
@@ -26,14 +24,13 @@
    .justify { text-align: justify;}
 </style>
 
-<center><b>PENETAPAN ANGKA KREDIT<b/></center>
+<center>PENETAPAN ANGKA KREDIT</center>
 <p style="font-size: large;">
   <center>TANGGAL PENILAIAN: TGL. 1 SEPTEMBER 2007 S/D TGL.30 APRIL 2011</center>
 <br/>
 <p align="center">
 <table width=100%>
 <table class="tg"> 
-
   <tr>
     <th width="15" class="tg-baqh" rowspan="14">I</th>
     <th class="tg-baqh" colspan="7">KETERANGAN PERORANGAN</th>
@@ -119,10 +116,10 @@
   <tr>
     <td class="tg-yw4l" rowspan="3">1.</td>
     <td class="tg-yw4l" colspan="2"> UNSUR UTAMA <br/> A. PENDIDIKAN</td>
-    <td class="tg-baqh"><br/>-</td>
-    <td class="tg-baqh"><br/>50</td>
-    <td class="tg-baqh"><br/>-</td>
-    <td class="tg-baqh"><br/>50</td>
+    <td class="tg-baqh">-</td>
+    <td class="tg-baqh">50</td>
+    <td class="tg-baqh">-</td>
+    <td class="tg-baqh">50</td>
   </tr>
   <tr>
     <td class="tg-yw4l" colspan="2">B. TRIDHARMA PERGURUAN TINGGI 
@@ -132,26 +129,26 @@
     </td>
 
 
-    <td class="tg-baqh"><br>83.02 <br/>14.34<br> 1.13	</td>
-    <td class="tg-baqh"><br/>101.50</td>
-    <td class="tg-baqh"><br/>-</td>
-    <td class="tg-baqh"><br/>184.52<br/>64.34<br/>4.13</td>
+    <td class="tg-baqh"><br>83.02 <br/>11<br> 11	</td>
+    <td class="tg-baqh">101.50</td>
+    <td class="tg-baqh">-</td>
+    <td class="tg-baqh">184.52</td>
   </tr>
   <tr>
     <td class="tg-baqh" colspan="2">JUMLAH</td>
-    <td class="tg-baqh">98.49</td>
-    <td class="tg-baqh">204.50</td>
-    <td class="tg-baqh">-</td>
-    <td class="tg-baqh">315.50</td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">2.</td>
     <td class="tg-yw4l" colspan="2">UNSUR PENUNJANG 
       <br/> Melaksanakan Penunjang Tugas Pokok Dosen
-    <td class="tg-baqh"><br/>1.51</td>
-    <td class="tg-baqh"><br/>11</td>
-    <td class="tg-baqh"><br/>-</td>
-    <td class="tg-baqh"><br/>12.51</td>
+    <td class="tg-baqh">1.51</td>
+    <td class="tg-baqh">11</td>
+    <td class="tg-baqh">-</td>
+    <td class="tg-baqh">12.51</td>
 
   </tr>
   <tr>
@@ -169,29 +166,23 @@
             <li>Manajemen Strategi</li>
             <li>Manajemen Operasional</li>
           </ol>
-          <tr/>
-          <td class="tg-baqh">III</td>
-     <td class="tg-yw4l" colspan="7">*) Coret yang tidak perlu
-      <ol>
-        <br>
-        <br>
-    <p style="text-align: left">Catatan:
-          <p style="text-align: left">PNS Dpk.&nbsp&nbsp&nbsp&nbsp = &nbsp Dosen Pegawai Negeri Sipil Dipekerjakan
-                      <p style="text-align: left">TTP Yys.&nbsp&nbsp&nbsp&nbsp = &nbsp Dosen Tetap Yayasan
-                          <p style="text-align: left">LBS &nbsp&nbsp&nbsp&nbsp  = &nbsp Dosen Luar Biasa
-  <br/>
-
-       <p style="text-align: right;"> Puket I STIE Panca Setia Banjarmasin</p>
-<br/>
-<br/>
-<br/>
-  <p style="text-align: right">Sutrisno, SE, MM
-  <p style="text-align: right">NIP.19670512 200501 1 001
-     
 </table>
 
+     <p style="text-align: left">*) Coret yang tidak perlu
 
-
+<p style="text-align: right"> Puket I STIE Panca Setia Banjarmasin
+  <br>
+  <br>
+  <p style="text-align: right">Sutrisno, SE, MM
+    <br>
+      <th class="">NIP.19670512 200501 1 001</th>
+    </br>
+    <p style="text-align: left">Catatan:
+          <p style="text-align: left">PNS Dpk.&nbsp&nbsp&nbsp&nbsp = &nbsp Dosen Pegawai Negeri Sipil Dipekerjakan
+            <br>
+                    <th class="">TTP Yys.&nbsp&nbsp&nbsp&nbsp&nbsp = &nbsp Dosen Tetap Yayasan</th>
+                    <br>
+               <th class="">LBS      &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp = &nbsp Dosen Luar Biasa</th>
 
 
 
