@@ -37,8 +37,8 @@ if (isset($_POST['qcari'])){
             	<?php $filter=(isset($_GET['filter']) ? strtolower($_GET['filter']) : NULL); ?>
                 <option value="Teknik Informatika"><?php if($filter =='Teknik Informatika') {echo'selected';} ?>>Teknik Informatika</option>
                 <option value="Teknik Sipil"><?php if($filter =='Teknik Sipil') {echo'selected';} ?>>Teknik Sipil</option>
-                <option value="Sistem Informasia"><?php if($filter =='Sistem Informasi') {echo'selected';} ?>>Sistem Informasi</option>
-				 <option value="Kesehatan Masyarakat"><?php if($filter =='Kesehatan Masyarakati') {echo'selected';} ?>>Kesehatan Masyarakat</option>
+                <option value="Sistem Informasia"><?php if($filter =='Sistem Informasi') {echo'selected';} ?>Sistem Informasi</option>
+				 <option value="Kesehatan Masyarakat"><?php if($filter =='Kesehatan Masyarakati') {echo'selected';} ?>Kesehatan Masyarakat</option>
             </select>
         </form>
     </div>
