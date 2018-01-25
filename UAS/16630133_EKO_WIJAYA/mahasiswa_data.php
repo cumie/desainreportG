@@ -38,7 +38,6 @@ if (isset($_POST['qcari'])){
             	<?php $filter=(isset($_GET['filter']) ? strtolower($_GET['filter']) : NULL); ?>
                 <option value="Ganjil"><?php if($filter =='Ganjil') {echo'selected';} ?>>Ganjil</option>
                 <option value="Genap"><?php if($filter =='Genap') {echo'selected';} ?>>Genap</option>
-                <option value="Ganjil"><?php if($filter =='Ganjil') {echo'selected';} ?>Ganjil</option>
             </select>
         </form>
     </div>

@@ -34,13 +34,13 @@
         <ul class="dropDownMenu">
         	<li><a  href="index.php">Beranda</a>
 			<li><a  href="dosen_data.php">Data Dosen</a>
-            <li><a href="">Master Data</a>
-            	<ul>
-                	<li><a href="karyawan_data.php">Data Karyawan</a></li>
+				                	<li><a href="karyawan_data.php">Data Karyawan</a></li>
+				                						<li><a href="mahasiswa_data.php">Data Mahasiswa</a></li>
+
+
+         
 					
-					<li><a href="mahasiswa_data.php">Data Mahasiswa</a></li>
-					
-                </ul>
+			
             </li>
             <li><a href="">Laporan</a>
 			
