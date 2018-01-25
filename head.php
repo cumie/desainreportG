@@ -21,11 +21,11 @@ include ('library.php');
 			<ul class="dropDownMenu">
 				<li><a href="./">Beranda</a></li> 
 				<li><a href="test_cetak.php" target="_blank">Contoh Report</a></li> 
-				<li><a href="Rekapitulasi.php">Rekapitulasi</a></li> 
-				<li><a href="./">Lampiran I</a></li> 
-				<li><a href="./">Lampiran II</a></li> 
-				<li><a href="./">Lampiran III</a></li> 
-				<li><a href="./">Lampiran IV</a></li> 
+				<li><a href="Rekapitulasi.php">Rekapitulasi</a></li>
+				<li><a href="./">Lampiran I</a></li>
+				<li><a href="lampiranII.php">Lampiran II</a></li> 
+				<li><a href="LampiranIII.php">Lampiran III</a></li> 
+				<li><a href="LampiranIV.php">Lampiran IV</a></li> 
 				<li><a href="./">Lampiran V</a></li> 
 				<li><a href="./">Resume</a></li> 
 				 			 
