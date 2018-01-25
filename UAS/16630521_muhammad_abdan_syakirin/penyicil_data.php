@@ -56,8 +56,8 @@
                   <th>Nama</th>
                   <th>Nama Sepatu</th>
                   <th>Harga</th>
-                  <th>dp</th>
-
+                  <th>DP</th>
+                  <th></th>
                   <th>Tools</th>
              </tr>
              <?php

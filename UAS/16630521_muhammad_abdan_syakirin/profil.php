@@ -20,77 +20,13 @@
       }
     }
   </style>
-  <div class="container">
-<div class="row">
-  <div class="col-sm-8">
-    <div id="myCarousel" class="carousel slide" data-ride="carousel">
-      <!-- Indicators -->
-      <ol class="carousel-indicators">
-        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-        <li data-target="#myCarousel" data-slide-to="1"></li>
-        <li data-target="#myCarousel" data-slide-to="2"></li>
-        <li data-target="#myCarousel" data-slide-to="3"></li>
-      </ol>
 
-      <!-- Wrapper for slides -->
-      <div class="carousel-inner" role="listbox">
-        <div class="item active">
-          <img src="myfoto1.jpg" alt="myfoto1">
-          <div class="carousel-caption">
-            <h3>Sell $</h3>
-            <p>Money Money.</p>
-          </div>      
-        </div>
-
-        <div class="item">
-          <img src="myfoto2.jpg" alt="myfoto2">
-          <div class="carousel-caption">
-            <h3>More Sell $</h3>
-            <p>Lorem ipsum...</p>
-          </div>      
-        </div>
-        <div class="item">
-          <img src="myfoto3.jpg" alt="myfoto3">
-          <div class="carousel-caption">
-            <h3>More Sell $</h3>
-            <p>Lorem ipsum...</p>
-          </div>      
-        </div>
-       <div class="item">
-            <img src="myfoto4.jpg" alt="myfoto4">
-            <div class="carousel-caption">
-              <h3>More Sell $</h3>
-              <p>Lorem ipsum...</p>
-            </div>      
-          </div>
-      </div> 
-       <!--error
-       <div class="item">
-          <img src="minion2.jpg" alt="minion2">
-          <div class="carousel-caption">
-            <h3>More Sell $</h3>
-            <p>Lorem ipsum...</p>
-          </div>      
-        </div>
-      </div>-->  
-
-
-      <!-- Left and right controls -->
-      <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
-        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
-      </a>
-      <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
-        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
-      </a>
-    </div>
 <div class="w3-sidebar w3-bar-block w3-light-grey w3-card" style="width:140px">
   <h5 class="w3-bar-item" onclick="openCity(event, 'My Profil')">My Profil</h5>
   <button class="w3-bar-item w3-button tablink" onclick="openCity(event, 'Biodata')">Biodata</button>
   <button class="w3-bar-item w3-button tablink" onclick="openCity(event, 'Skill')">Skill</button>
   <button class="w3-bar-item w3-button tablink" onclick="openCity(event, 'Aktifitas')">Aktifitas</button>
-  <img src="pop.jpg" height="130px">
+  <img src="ikan.jpg" height="130px">
 </div>
 
 <div style="margin-left:140px">
@@ -101,19 +37,19 @@
     <table class="table table-striped ">
               <tr>
                 <th>Nama</th>
-                <td>Umar Dani</td>
+                <td>muhammad abdan syakirin</td>
               </tr>
                 <tr>
                   <th>Tempat & Tanggal Lahir</th>
-                  <td>Kuin Samuda, 23 Juli 1997</td>
+                  <td>Tanjung, 26 Agustus 1997</td>
                 </tr>
               <tr>
                 <th>Alamat</th>
-                <td>Jl. Scorpio XI</td>
+                <td>Jl.gemini no 5</td>
               </tr>
               <tr>
                 <th>No Telpon</th>
-                <td>082153453120</td>
+                <td>08562923218</td>
               </tr>
               <tr>
                 <th>Semester</th>
@@ -128,14 +64,14 @@
 
   <div id="Skill" class="w3-container city" style="display:none">
     <h2>Skill</h2>
-    <p>Skill is the capital of France.</p> 
-    <p>The Skill area is one of the largest population centers in Europe, with more than 12 million inhabitants.</p>
+    <p>guring</p> 
+    <p>bisa tidur 20jam sehari.</p>
   </div>
 
   <div id="Aktifitas" class="w3-container city" style="display:none">
     <h2>Aktifitas</h2>
-    <p>Aktifitas is the capital of Japan.</p>
-    <p>It is the center of the Greater Aktifitas Area, and the most populous metropolitan area in the world.</p>
+    <p>Aktifitasnya main game</p>
+    <p>main game makan</p>
   </div>
 
 </div>

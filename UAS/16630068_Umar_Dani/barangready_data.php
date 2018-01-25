@@ -28,7 +28,7 @@
       <br/>
 <div class="form-group">
   <div class="left">
-    <form class="form-inline" method="get">
+    <!--<form class="form-inline" method="get">
           <select class="form-control" name="filter" onchange="form.submit()">
               <option value="0">Filter Data ready</option>
               <?php $filter = (isset($_GET['filter']) ? strtolower($_GET['filter']) : NULL); ?>
@@ -36,7 +36,7 @@
               <option value="Kontrak" <?php if($filter=='Kontrak'){echo 'selected';} ?>>Kontrak</option>
               <option value="Outsourcing" <?php if($filter=='Outsourcing'){echo 'selected';} ?>>Outsourcing</option>
           </select>
-    </form>
+    </form>-->
 
   </div>
   <div class="right">
