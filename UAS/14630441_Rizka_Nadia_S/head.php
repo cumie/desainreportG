@@ -19,7 +19,7 @@ include("library.php");
 	<nav class="navbar navbar-inverse ">
 	<div id="navabar">
 	<ul class="dropDownMenu">
-		<li ><a href="/latihan_app/">Beranda</a>
+		<li ><a href="index.php">Beranda</a>
 			<li ><a href="#">Master Data</a>
 				<ul>
 			<li ><a href="karyawan_data.php">Karyawan Data</a></li>
