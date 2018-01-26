@@ -1,0 +1,30 @@
+CARA PENGGUNAAN NYA.
+
+- IMOPORT DATABASE, DATABASE: dorayaki.sql (filenya di folder database)
+
+- LOGIN KE SISTEM
+
+
+	username : admin
+	pass	 : admin
+
+	lvl_user : admin
+
+
+
+	username : customer
+	pass	 : customer
+
+	lvl_user : customer
+	
+
+
+	username : supplier
+	pas	 : supplier
+
+	lvl_user : supplier
+
+
+
+
+	*goodluck :)
