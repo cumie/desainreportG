@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+.gambar{
+	text-align:center;
+	width:120px;
+	height:120px;
+	margin-top:60px;
+	}
+.warna{
+	color:#0D6CA8;}
+.tombol{
+	width:100%;}
+.link{
+	margin-top:-20px;}
+.bg{
+	background-color:#5273A6;}
+.bg-2{
+	background-color:#AAFCC3;
+	text-align:justify;}
+.bayang{box-shadow: 0px 0px 4px 4px #3F3D3D;}
+.trans{
+	margin-top:-25px}
+.mainmenu-bg{
+	background-color:#1A87C4;}
+.font{
+	font-family:Gotham,Helvetica Neue, Helvetica, Arial, "sans-serif";
+	font-size:28px;
+	font-weight:bold;
+	color:#ffffff;
+	padding:7px;
+	text-decoration:none;
+}
+.blink{text-decoration:blink;
+font-size:18px;}
+.link-detail{
+	margin-bottom:10px;
+	margin-top:10px;}
+.gambard{
+	margin-top:10px;
+	width:200px;
+	height:260px;
+	box-shadow:0px 6px 8px 0px;
+	border-radius:5px;
+	}
+
