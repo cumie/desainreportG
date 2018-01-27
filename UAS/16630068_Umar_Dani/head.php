@@ -25,7 +25,7 @@ include("library.php");
       <nav class="navbar navbar-inverse">
       <div id="navbar">
       <ul class="dropDownMenu">
-          <li ><a href="/test1/">Beranda</a>
+          <li ><a href="/16630068_Umar_Dani/">Beranda</a>
           <li ><a href="#">Master Data </a>
               <ul>
               <li ><a href="karyawan_data.php">Karyawan Data</a></li>
