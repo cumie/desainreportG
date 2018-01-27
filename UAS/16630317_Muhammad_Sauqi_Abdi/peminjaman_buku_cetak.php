@@ -13,6 +13,7 @@
         <th>Nama Buku</th>
         <th>Jumlah</th>
         <th>Tanggal</th>
+
     </tr>
     <?php
 		$sql = mysqli_query($koneksi, "SELECT * FROM peminjaman_buku ORDER BY kode_buku ASC");
@@ -27,6 +28,7 @@
                                   <td>'.$row['nama_buku'].'</td>
                                   <td>'.$row['jumlah'].'</td>
                                   <td>'.indonesiatgl($row['tanggal']).'</td>
+								  
                                 </tr>
 			';
 			$no++;

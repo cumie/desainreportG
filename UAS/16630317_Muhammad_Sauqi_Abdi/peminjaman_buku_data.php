@@ -27,7 +27,7 @@ if (isset($_POST['qcari'])){
 	$page_sql="SELECT * FROM peminjaman_buku WHERE kode_buku like '%qcari%' or nama like '%qcari%' or no_telepon like '%qcari%' or tempat_lahir like '%qcari%' ";
 	}
 ?>
-<span class="glyphicon glyphicon-plus" aria-hidden="true"></span><a href="order_add2.php" class="btn btn-succes">Tambah Data</a>
+<span class="glyphicon glyphicon-plus" aria-hidden="true"></span><a href="peminjaman_buku_add2.php" class="btn btn-succes">Tambah Data</a>
 
 <div class="form-group">
 	<div class="left">
@@ -35,9 +35,9 @@ if (isset($_POST['qcari'])){
         	<select name="filter" class="form-control" onChange="form.submit()">
             	<option value="0">Filter Peminjaman Buku </option>
             	<?php $filter=(isset($_GET['filter']) ? strtolower($_GET['filter']) : NULL); ?>
-                <option value="01"><?php if($filter =='01') {echo'selected';} ?>>01</option>
-                <option value="02"><?php if($filter =='02') {echo'selected';} ?>>02</option>
-                <option value="03"><?php if($filter =='03') {echo'selected';} ?>>03</option>
+                <option value="01"><?php if($filter =='1') {echo'selected';} ?>>1</option>
+                <option value="02"><?php if($filter =='2') {echo'selected';} ?>>2</option>
+                <option value="03"><?php if($filter =='3') {echo'selected';} ?>>3</option>
             </select>
         </form>
     </div>
@@ -64,7 +64,7 @@ if (isset($_POST['qcari'])){
             <?php include "library.php"; ?>
             <?php 
 				if($filter){
-					$sql = mysqli_query($koneksi,"SELECT * FROM peminjaman_buku WHERE tools ='$filter' ORDER BY kode ASC");
+					$sql = mysqli_query($koneksi,"SELECT * FROM peminjaman_buku WHERE kode_buku ='$filter' ORDER BY kode_buku ASC");
 					}
 					else{
 						$sql = mysqli_query($koneksi, $page_sql." ORDER BY kode_buku ASC");
@@ -78,23 +78,23 @@ if (isset($_POST['qcari'])){
 					while ($row = mysqli_fetch_assoc($sql)){
 			?>	
             	<tr>
-                	<td><?php echo $no; ?></td>
                     <td><?php echo $row['kode_buku']; ?></td>
-                    <td><a href="peminjaman_buku_detail.php?kode_buku=<?php echo $row['kode_buku']; ?>"><span class="glyphicon glyphicon-user" aria-hidden="true"></span><?php echo $row['kode_buku']; ?></a></td>
+                    <td><a href="peminjaman_buku_detail?kode_buku=<?php echo $row['kode_buku']; ?>"><span class="glyphicon glyphicon-user" aria-hidden="true"></span><?php echo $row['kode_buku']; ?></a></td>
                     <td><?php echo $row['nama_peminjam']; ?></td>
+					<td><?php echo $row['nama_buku'];?></td>
                     <td><?php echo $row['jumlah']; ?></td>
                     <td><?php echo $row['tanggal']; ?></td>
                     <td>
 					<?php 
-						if($row['kode_buku']== '01'){	
+						if($row['kode_buku']== '1'){	
 						?>
                     <span class="label label-success">Ganjil</span>
                     <?php }
-						else if($row['kode_buku']== '02'){
+						else if($row['kode_buku']== '2'){
                     ?>
                     <span class="label label-info">Genap</span>
                     <?php }
-						else if($row['kode_buku']== '03'){
+						else if($row['kode_buku']== '3'){
 					?>
                     <span class="label label-warning">Ganjil</span>
                    <?php } ?>  
@@ -102,7 +102,7 @@ if (isset($_POST['qcari'])){
                     <td>
                     	<a href="peminjaman_buku_edit.php? kode_buku=<?php echo $row['kode_buku']; ?>" title="Edit Data" class="btn btn-primary btn-sm"><span class="glyphicon glyphicon-edit" aria-hidden="true"></span></a>
                         
-                        <a href="peminjaman_data.php?aksi=delete&kode_buku=<?php echo $row['kode_buku']; ?>" title="Hapus Data" onClick="return confirm('Anda Yakin Akan Menghapus Data <?php echo $row['kode_buku']; ?> ??')" class="btn btn-danger btn-sm"><span class="glyphicon glyphicon-trash" aria-hidden="true"></span></a>
+                        <a href="peminjaman_buku_data.php?aksi=delete&kode_buku=<?php echo $row['kode_buku']; ?>" title="Hapus Data" onClick="return confirm('Anda Yakin Akan Menghapus Data <?php echo $row['kode_buku']; ?> ??')" class="btn btn-danger btn-sm"><span class="glyphicon glyphicon-trash" aria-hidden="true"></span></a>
                     </td>
                 </tr>
                 <?php 
