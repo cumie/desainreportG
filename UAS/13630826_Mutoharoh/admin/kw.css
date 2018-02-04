@@ -1,0 +1,90 @@
+*{
+		margin: 0;
+		padding: 0;
+		font-family: sans-serif;
+	}
+
+	#kwitansi{
+
+		margin-top: 50px;
+		margin-left: 100px;
+		display: block;
+		border:1px solid black;
+		height: 600px;
+		width: 900px;
+	}
+
+	#header{
+		padding-top: 20px;
+		text-align: center;
+	}
+
+	.garis{
+		width: 800px;
+		border:2px solid black;
+		margin-bottom: 10px;
+		margin-left: 50px;
+	}
+
+	#kotak{
+		display: block;
+		border:1px solid black;
+		height: 55%;
+		width: 85%;
+		left: 0;
+		margin-left: 50px;
+		margin-top: 10px;
+		padding: 10px 0 0 25px;
+
+	}
+
+	.wrapper{
+		text-align: center;
+	}
+
+	.wrapper label{
+
+		margin-right: 30px;
+		font-size: 15px;
+
+	}
+
+	#kotak p{
+
+		margin-bottom: 20px;
+
+	}
+
+	.garis-kotak{
+		width: 90%;
+		border:2px solid black;
+		margin-bottom: 10px;
+		margin-left: 10px;
+	}
+
+	.nominal{
+		margin-left: 20px;
+		font-size: 20px;
+	}
+
+	.ttd{
+
+		margin-top: 50px;
+		width: 200px;
+		border:2px solid black;
+		margin-left: 60%;
+
+	}
+
+	.ttd1{
+
+		margin-left: 60%;
+
+	}
+
+	.no_kw{
+
+		margin-left: 50px;
+		font-size: 15px;
+
+	}

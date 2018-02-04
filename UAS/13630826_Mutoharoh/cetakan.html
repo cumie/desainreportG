@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Pemasaran Rumah Bersubsidi</title>
+	<meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <link href="https://fonts.googleapis.com/css?family=Mukta+Malar" rel="stylesheet"> 
+    <link href="bootstrap/css/bootstrap.css" rel="stylesheet" />
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<div id="header">
+		<div class="menu">
+			<a href="">HOME</a>
+			<a href="">PERUMAHAN</a>
+			<a href="">INFO</a>
+			<a href="">LOGIN</a>
+			<div class="dropdowns">
+				<a href="">MENU</a>
+				<div class="clear"></div>
+					<div class="dropdown-menus">
+						<a href="">menu1</a>
+						<a href="">menu2</a>
+						<a href="">menu3</a>
+					</div>
+				</div>
+			</div>
+	</div>
+
+
+	<!-- konten -->
+	<div id="content">
+
+		<div id="content-isi">
+			<p>ini adalah konten<p>
+				<div class="garis"></div>
+		
+					<div class="panah-box panah-kr" onclick="sebelumnya()"> < </div>
+						
+						<div id="slide-box">
+							<img src="gambar/1.jpg" alt="" id="target-gambar">
+						
+						</div>	
+					<div class="panah-box panah-knn" onclick="selanjutnya()"> > </div>
+
+					<div class="clear"></div>
+
+							<div id="slide-gambar">
+								<img src="gambar/1.jpg" alt="" onclick="ganti_gambar(this)" class="1">
+								<img src="gambar/2.jpg" alt=""  onclick="ganti_gambar(this)" class="2">
+								<img src="gambar/3.jpg" alt="" onclick="ganti_gambar(this)" class="3">
+							</div>
+
+			</div>
+
+	</div>
+
+
+	<div class="clear"></div>
+	<div id="footer">
+		
+	</div>
+
+ <!-- BOOTSTRAP SCRIPTS  -->
+    <script src="bootstrap/js/bootstrap.js"></script>
+    <script type="text/javascript" src="js/fungsi.js"></script>
+</body>
+</html>
